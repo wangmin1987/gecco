@@ -1,0 +1,390 @@
+2018-11-28 10:15:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:15:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:15:57 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:15:57 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:16:01 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:16:02 -Opened connection [connectionId{localValue:1, serverValue:6719}] to dev.59isport.com:27017
+2018-11-28 10:16:02 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11330100}
+2018-11-28 10:16:03 -Opened connection [connectionId{localValue:2, serverValue:6720}] to dev.59isport.com:27017
+2018-11-28 10:16:03 -initializing...
+2018-11-28 10:16:04 -初始化开始。。。。。
+2018-11-28 10:16:05 -no modules loaded
+2018-11-28 10:16:05 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:16:05 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:16:05 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:16:05 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:16:05 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:16:13 -init param start ...
+2018-11-28 10:16:13 -init param end ...
+2018-11-28 10:17:04 -Closed connection [connectionId{localValue:2, serverValue:6720}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 10:19:44 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:19:45 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:19:45 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:19:45 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:19:50 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:19:51 -Opened connection [connectionId{localValue:1, serverValue:6723}] to dev.59isport.com:27017
+2018-11-28 10:19:51 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=26269700}
+2018-11-28 10:19:51 -Opened connection [connectionId{localValue:2, serverValue:6724}] to dev.59isport.com:27017
+2018-11-28 10:19:51 -initializing...
+2018-11-28 10:19:52 -初始化开始。。。。。
+2018-11-28 10:19:53 -no modules loaded
+2018-11-28 10:19:53 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:19:53 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:19:53 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:19:53 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:19:53 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:19:59 -init param start ...
+2018-11-28 10:19:59 -init param end ...
+2018-11-28 10:20:24 -Detected dialect: OSS
+2018-11-28 10:20:43 -Detected dialect: OSS
+2018-11-28 10:22:48 -NewsInfoBean [id=null, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=null, pub_date=2018-11-28 10:22:48, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-28 10:22:48, dispose_state=2, redio_url= https://static.59isport.com/video/20181128/86279c579d2540f5ca35ece667d0b891.mp4]
+2018-11-28 10:22:50 -Closed connection [connectionId{localValue:2, serverValue:6724}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 10:25:04 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:25:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:25:05 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:25:05 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:25:08 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:25:09 -Opened connection [connectionId{localValue:1, serverValue:6725}] to dev.59isport.com:27017
+2018-11-28 10:25:09 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=17577700}
+2018-11-28 10:25:09 -Opened connection [connectionId{localValue:2, serverValue:6726}] to dev.59isport.com:27017
+2018-11-28 10:25:09 -initializing...
+2018-11-28 10:25:10 -初始化开始。。。。。
+2018-11-28 10:25:10 -no modules loaded
+2018-11-28 10:25:10 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:25:10 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:25:10 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:25:10 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:25:10 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:25:14 -init param start ...
+2018-11-28 10:25:14 -init param end ...
+2018-11-28 10:25:36 -Detected dialect: OSS
+2018-11-28 10:25:48 -Detected dialect: OSS
+2018-11-28 10:26:48 -NewsInfoBean [id=null, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=null, pub_date=2018-11-28 10:26:47, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-28 10:26:48, dispose_state=2, redio_url= http://player.youku.com/embed/XMzkzMDk3NjcwNA==?client_id=0f1c1fff978cce3f&password=&autoplay=true]
+2018-11-28 10:26:49 -Closed connection [connectionId{localValue:2, serverValue:6726}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 10:28:13 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:28:13 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:28:13 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:28:13 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:28:17 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:28:18 -Opened connection [connectionId{localValue:1, serverValue:6727}] to dev.59isport.com:27017
+2018-11-28 10:28:18 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10946700}
+2018-11-28 10:28:18 -Opened connection [connectionId{localValue:2, serverValue:6728}] to dev.59isport.com:27017
+2018-11-28 10:28:18 -initializing...
+2018-11-28 10:28:19 -初始化开始。。。。。
+2018-11-28 10:28:20 -no modules loaded
+2018-11-28 10:28:20 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:28:20 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:28:20 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:28:20 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:28:20 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:28:24 -init param start ...
+2018-11-28 10:28:24 -init param end ...
+2018-11-28 10:28:42 -Detected dialect: OSS
+2018-11-28 10:28:43 -Closed connection [connectionId{localValue:2, serverValue:6728}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 10:29:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:29:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:29:42 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:29:42 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:29:45 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:29:45 -Opened connection [connectionId{localValue:1, serverValue:6729}] to dev.59isport.com:27017
+2018-11-28 10:29:45 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=12331400}
+2018-11-28 10:29:46 -Opened connection [connectionId{localValue:2, serverValue:6730}] to dev.59isport.com:27017
+2018-11-28 10:29:46 -initializing...
+2018-11-28 10:29:47 -初始化开始。。。。。
+2018-11-28 10:29:47 -no modules loaded
+2018-11-28 10:29:47 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:29:47 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:29:47 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:29:47 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:29:47 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:29:51 -init param start ...
+2018-11-28 10:29:51 -init param end ...
+2018-11-28 10:29:57 -Detected dialect: OSS
+2018-11-28 10:30:40 -NewsInfoBean [id=null, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=null, pub_date=2018-11-28 10:30:40, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-28 10:30:40, dispose_state=2, redio_url= https://static.59isport.com/video/20181128/d652ef4a015c60ac1f471c4ba43f7b96.mp4]
+2018-11-28 10:30:41 -Closed connection [connectionId{localValue:2, serverValue:6730}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 10:51:42 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:51:42 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 10:51:42 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 10:51:42 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 10:51:47 -Initializing ProtocolHandler ["http-nio-9093"]
+2018-11-28 10:51:47 -Starting service [Tomcat]
+2018-11-28 10:51:47 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2018-11-28 10:51:47 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_191\bin;D:\TortoiseSVN\bin;D:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\八斗体育\AppData\Local\Microsoft\WindowsApps;;D:\Fiddler;C:\Users\八斗体育\Desktop;;.]
+2018-11-28 10:51:48 -Initializing Spring embedded WebApplicationContext
+2018-11-28 10:51:51 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 10:51:51 -Opened connection [connectionId{localValue:1, serverValue:6731}] to dev.59isport.com:27017
+2018-11-28 10:51:51 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=24154600}
+2018-11-28 10:51:51 -Opened connection [connectionId{localValue:2, serverValue:6732}] to dev.59isport.com:27017
+2018-11-28 10:51:52 -initializing...
+2018-11-28 10:51:52 -初始化开始。。。。。
+2018-11-28 10:51:54 -no modules loaded
+2018-11-28 10:51:54 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 10:51:54 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 10:51:54 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 10:51:54 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 10:51:54 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 10:51:59 -Redisson 3.8.0
+2018-11-28 10:51:59 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-28 10:51:59 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-28 10:52:00 -Reflections took 225 ms to scan 4 urls, producing 59 keys and 421 values 
+2018-11-28 10:52:00 -init param start ...
+2018-11-28 10:52:00 -init param end ...
+2018-11-28 10:52:03 -Reflections took 80 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-28 10:52:04 -Starting ProtocolHandler ["http-nio-9093"]
+2018-11-28 10:52:04 -Using a shared selector for servlet write/read
+2018-11-28 10:52:08 -Logging initialized @36157ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-28 10:52:10 -查重失败: 1e3ed68b7aeba36a200b176854a4b65f
+2018-11-28 10:52:10 -Opened connection [connectionId{localValue:4, serverValue:6733}] to dev.59isport.com:27017
+2018-11-28 10:52:10 -Opened connection [connectionId{localValue:3, serverValue:6734}] to dev.59isport.com:27017
+2018-11-28 10:52:11 -Opened connection [connectionId{localValue:5, serverValue:6735}] to dev.59isport.com:27017
+2018-11-28 10:52:11 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-28 10:52:11 -Kafka version : 1.0.1
+2018-11-28 10:52:11 -Kafka commitId : c0518aa65f25317e
+2018-11-28 10:52:11 -Mongo,kafka写入成功：223617a16774ab858d8c7d5e36cbedd5
+2018-11-28 10:52:11 -Mongo,kafka写入成功：399ed8a84fa7f30c81554a10adef4fc5
+2018-11-28 10:52:11 -Mongo,kafka写入成功：f125d254f6edabe65c44b2bd25906476
+2018-11-28 10:52:11 -Mongo,kafka写入成功：cff817fc7923ec67166c336a58487ccb
+2018-11-28 10:52:11 -Mongo,kafka写入成功：22c654ed8bd9bd891d5742918997c6db
+2018-11-28 10:52:12 -Mongo,kafka写入成功：f266cc9f017f106a1450dcb4127e5ed2
+2018-11-28 10:52:12 -Mongo,kafka写入成功：4c3bdd8da8168467d6a438cf3de76907
+2018-11-28 10:52:12 -HikariPool-1 - Starting...
+2018-11-28 10:52:13 -Mongo,kafka写入成功：9a4ebdb7e3160bbf9fa628739510bf23
+2018-11-28 10:52:13 -HikariPool-1 - Start completed.
+2018-11-28 10:52:13 -Starting without optional epoll library
+2018-11-28 10:52:13 -Starting without optional kqueue library
+2018-11-28 10:52:17 -login result: {"Status":true,"RedirectUrl":"https://zs.xiguaji.com"}
+2018-11-28 10:52:17 -Mongo,kafka写入成功：325447ae8b56343161ad91d0bd78f10c
+2018-11-28 10:52:17 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/3761bc/2998
+2018-11-28 10:52:18 -login result: {"Status":true,"RedirectUrl":"https://zs.xiguaji.com"}
+2018-11-28 10:52:19 -login result: {"Status":true,"RedirectUrl":"https://zs.xiguaji.com"}
+2018-11-28 10:52:20 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/9be2bd/222527
+2018-11-28 10:52:21 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/6d8c6c/728438
+2018-11-28 10:52:21 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/ab2c24/860
+2018-11-28 10:52:21 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/c96788/692220
+2018-11-28 10:52:21 -login result: {"Status":true,"RedirectUrl":"https://zs.xiguaji.com"}
+2018-11-28 10:52:22 -Mongo,kafka写入成功：815a23635d52089fdfaf73917c69fc7a
+2018-11-28 10:52:22 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/649bf5/5435
+2018-11-28 10:52:23 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/fe39b3/5774
+2018-11-28 10:52:23 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/72652a/3313895
+2018-11-28 10:52:23 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/a14ea1/92374
+2018-11-28 10:52:24 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/1a69ba/1938264
+2018-11-28 10:52:24 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/cd0d29/2176
+2018-11-28 10:52:24 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/38acbc/282474
+2018-11-28 10:52:25 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/41dafb/723547
+2018-11-28 10:52:25 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/1496cd/64037
+2018-11-28 10:52:26 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/8e86a3/685596
+2018-11-28 10:52:26 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/7d25f7/5912
+2018-11-28 10:52:26 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/1967d0/1924974
+2018-11-28 10:52:26 -抓取正常结束  url=https://zs.xiguaji.com/MBiz/Detail/8f1490/748990
+2018-11-28 11:00:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:00:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:00:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 11:00:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 11:00:30 -Initializing ProtocolHandler ["http-nio-9093"]
+2018-11-28 11:00:30 -Starting service [Tomcat]
+2018-11-28 11:00:30 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2018-11-28 11:00:30 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_191\bin;D:\TortoiseSVN\bin;D:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\八斗体育\AppData\Local\Microsoft\WindowsApps;;D:\Fiddler;C:\Users\八斗体育\Desktop;;.]
+2018-11-28 11:00:30 -Initializing Spring embedded WebApplicationContext
+2018-11-28 11:00:32 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 11:00:33 -Opened connection [connectionId{localValue:1, serverValue:6740}] to dev.59isport.com:27017
+2018-11-28 11:00:33 -Cluster description not yet available. Waiting for 30000 ms before timing out
+2018-11-28 11:00:33 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=39459300}
+2018-11-28 11:00:33 -Opened connection [connectionId{localValue:2, serverValue:6741}] to dev.59isport.com:27017
+2018-11-28 11:00:33 -initializing...
+2018-11-28 11:00:34 -初始化开始。。。。。
+2018-11-28 11:00:36 -no modules loaded
+2018-11-28 11:00:36 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 11:00:36 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 11:00:36 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 11:00:36 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 11:00:36 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 11:00:40 -Redisson 3.8.0
+2018-11-28 11:00:40 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-28 11:00:41 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-28 11:00:42 -Reflections took 235 ms to scan 4 urls, producing 59 keys and 421 values 
+2018-11-28 11:00:42 -init param start ...
+2018-11-28 11:00:42 -init param end ...
+2018-11-28 11:00:44 -Reflections took 54 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-28 11:00:45 -Starting ProtocolHandler ["http-nio-9093"]
+2018-11-28 11:00:45 -Using a shared selector for servlet write/read
+2018-11-28 11:00:45 -Logging initialized @21929ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-28 11:00:47 -HikariPool-1 - Starting...
+2018-11-28 11:00:47 -HikariPool-1 - Start completed.
+2018-11-28 11:00:47 -Starting without optional epoll library
+2018-11-28 11:00:47 -Starting without optional kqueue library
+2018-11-28 11:00:49 -抓取正常结束  url=http://www.aiyuke.com/view/cate/index.htm?page=3
+2018-11-28 11:04:51 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:04:51 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:04:51 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 11:04:51 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 11:04:53 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 11:04:54 -Opened connection [connectionId{localValue:1, serverValue:6746}] to dev.59isport.com:27017
+2018-11-28 11:04:54 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=14355200}
+2018-11-28 11:04:54 -Opened connection [connectionId{localValue:2, serverValue:6747}] to dev.59isport.com:27017
+2018-11-28 11:04:54 -initializing...
+2018-11-28 11:04:55 -初始化开始。。。。。
+2018-11-28 11:04:55 -no modules loaded
+2018-11-28 11:04:55 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 11:04:55 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 11:04:55 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 11:04:55 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 11:04:55 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 11:04:59 -init param start ...
+2018-11-28 11:04:59 -init param end ...
+2018-11-28 11:05:51 -Closed connection [connectionId{localValue:2, serverValue:6747}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 11:08:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:08:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:08:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 11:08:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 11:08:06 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 11:08:07 -Opened connection [connectionId{localValue:1, serverValue:6748}] to dev.59isport.com:27017
+2018-11-28 11:08:07 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18472200}
+2018-11-28 11:08:08 -Opened connection [connectionId{localValue:2, serverValue:6749}] to dev.59isport.com:27017
+2018-11-28 11:08:09 -initializing...
+2018-11-28 11:08:10 -初始化开始。。。。。
+2018-11-28 11:08:12 -no modules loaded
+2018-11-28 11:08:12 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 11:08:12 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 11:08:12 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 11:08:12 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 11:08:12 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 11:08:23 -init param start ...
+2018-11-28 11:08:23 -init param end ...
+2018-11-28 11:08:57 -Closed connection [connectionId{localValue:2, serverValue:6749}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 11:11:33 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:11:33 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 11:11:33 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 11:11:33 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 11:11:37 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 11:11:37 -Opened connection [connectionId{localValue:1, serverValue:6750}] to dev.59isport.com:27017
+2018-11-28 11:11:37 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=19237600}
+2018-11-28 11:11:38 -Opened connection [connectionId{localValue:2, serverValue:6751}] to dev.59isport.com:27017
+2018-11-28 11:11:38 -initializing...
+2018-11-28 11:11:39 -初始化开始。。。。。
+2018-11-28 11:11:39 -no modules loaded
+2018-11-28 11:11:40 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 11:11:40 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 11:11:40 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 11:11:40 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 11:11:40 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 11:11:44 -init param start ...
+2018-11-28 11:11:44 -init param end ...
+2018-11-28 11:12:04 -Detected dialect: OSS
+2018-11-28 11:12:43 -Detected dialect: OSS
+2018-11-28 11:14:37 -NewsInfoBean [id=7d759fed4aedc3cedf40a7c53ff4d114, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=林丹对阵谌龙，李永波任裁判，这又是什么同框？, title_imgs=[https://static.59isport.com/news/20181128/fc195861efa7c852c6e9e7662cbfa028_300x169.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/va9d92c1e3a2.html, pub_date=2018-11-28 11:14:37, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-28 11:14:37, dispose_state=2, redio_url= null]
+2018-11-28 11:16:17 -NewsInfoBean [id=9f89f8de3f77e3cf7bb4997f40187a5e, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=2018赛季杀球TOP10 李宗伟独占4个！最厉害的竟是他！, title_imgs=[https://static.59isport.com/news/20181128/c58f3b50dfe19eba8e90c7832b934b1f_800x450.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/v1ce1ededc11.html, pub_date=2018-11-28 11:16:17, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-28 11:16:17, dispose_state=1, redio_url= https://static.59isport.com/video/20181128/8b24d676e52587404ff3fc00e361d5c5.mp4]
+2018-11-28 17:22:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:22:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:22:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 17:22:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 17:22:36 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 17:22:36 -Opened connection [connectionId{localValue:1, serverValue:6798}] to dev.59isport.com:27017
+2018-11-28 17:22:36 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=17869300}
+2018-11-28 17:22:37 -Opened connection [connectionId{localValue:2, serverValue:6799}] to dev.59isport.com:27017
+2018-11-28 17:22:37 -initializing...
+2018-11-28 17:22:38 -初始化开始。。。。。
+2018-11-28 17:22:39 -no modules loaded
+2018-11-28 17:22:39 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 17:22:39 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 17:22:39 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 17:22:39 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 17:22:39 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 17:22:43 -init param start ...
+2018-11-28 17:22:43 -init param end ...
+2018-11-28 17:23:11 -Detected dialect: OSS
+2018-11-28 17:23:32 -Detected dialect: OSS
+2018-11-28 17:23:43 -Closed connection [connectionId{localValue:2, serverValue:6799}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-28 17:24:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:24:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:24:49 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 17:24:49 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 17:24:53 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 17:24:53 -Opened connection [connectionId{localValue:1, serverValue:6800}] to dev.59isport.com:27017
+2018-11-28 17:24:53 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=28937600}
+2018-11-28 17:24:54 -Opened connection [connectionId{localValue:2, serverValue:6801}] to dev.59isport.com:27017
+2018-11-28 17:24:54 -initializing...
+2018-11-28 17:24:54 -初始化开始。。。。。
+2018-11-28 17:24:55 -no modules loaded
+2018-11-28 17:24:55 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 17:24:55 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 17:24:55 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 17:24:55 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 17:24:55 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 17:25:00 -init param start ...
+2018-11-28 17:25:00 -init param end ...
+2018-11-28 17:25:12 -Detected dialect: OSS
+2018-11-28 17:25:27 -Detected dialect: OSS
+2018-11-28 17:51:30 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:51:30 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-28 17:51:30 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-28 17:51:30 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-28 17:51:37 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-28 17:51:37 -Opened connection [connectionId{localValue:1, serverValue:6802}] to dev.59isport.com:27017
+2018-11-28 17:51:37 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11352500}
+2018-11-28 17:51:38 -Opened connection [connectionId{localValue:2, serverValue:6803}] to dev.59isport.com:27017
+2018-11-28 17:51:38 -initializing...
+2018-11-28 17:51:39 -初始化开始。。。。。
+2018-11-28 17:51:40 -no modules loaded
+2018-11-28 17:51:40 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-28 17:51:40 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-28 17:51:40 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-28 17:51:40 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-28 17:51:40 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-28 17:51:45 -init param start ...
+2018-11-28 17:51:45 -init param end ...
+2018-11-28 17:52:20 -Detected dialect: OSS
+2018-11-28 17:52:51 -Detected dialect: OSS

@@ -1,0 +1,1 @@
+D:\ffmpeg-20181128-b9aff7a-win64-static\bin\ffmpeg.exe -i new.ts -acodec copy -vcodec copy -absf aac_adtstoasc combine.mp4

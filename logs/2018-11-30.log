@@ -1,0 +1,111 @@
+2018-11-30 20:02:49 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:02:49 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:02:49 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-30 20:02:49 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-30 20:03:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:03:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:03:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-30 20:03:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-30 20:03:49 -Initializing ProtocolHandler ["http-nio-9093"]
+2018-11-30 20:03:49 -Starting service [Tomcat]
+2018-11-30 20:03:49 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2018-11-30 20:03:49 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_191\bin;D:\TortoiseSVN\bin;D:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_191\bin;D:\ffmpeg-20181128-b9aff7a-win64-static\bin;C:\Users\八斗体育\AppData\Local\Microsoft\WindowsApps;;D:\Fiddler;C:\Users\八斗体育\Desktop;;.]
+2018-11-30 20:03:49 -Initializing Spring embedded WebApplicationContext
+2018-11-30 20:03:52 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-30 20:03:53 -Opened connection [connectionId{localValue:1, serverValue:7159}] to dev.59isport.com:27017
+2018-11-30 20:03:53 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=19427400}
+2018-11-30 20:03:53 -Opened connection [connectionId{localValue:2, serverValue:7160}] to dev.59isport.com:27017
+2018-11-30 20:03:53 -initializing...
+2018-11-30 20:03:54 -初始化开始。。。。。
+2018-11-30 20:03:55 -no modules loaded
+2018-11-30 20:03:55 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-30 20:03:55 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-30 20:03:55 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-30 20:03:55 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-30 20:03:55 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-30 20:04:01 -init param start ...
+2018-11-30 20:04:01 -init param end ...
+2018-11-30 20:04:03 -Starting ProtocolHandler ["http-nio-9093"]
+2018-11-30 20:04:03 -Using a shared selector for servlet write/read
+2018-11-30 20:05:09 -Detected dialect: OSS
+2018-11-30 20:08:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:08:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-30 20:08:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-30 20:08:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-30 20:08:08 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-30 20:08:08 -Opened connection [connectionId{localValue:1, serverValue:7161}] to dev.59isport.com:27017
+2018-11-30 20:08:09 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11788500}
+2018-11-30 20:08:09 -Opened connection [connectionId{localValue:2, serverValue:7162}] to dev.59isport.com:27017
+2018-11-30 20:08:09 -initializing...
+2018-11-30 20:08:11 -初始化开始。。。。。
+2018-11-30 20:08:12 -no modules loaded
+2018-11-30 20:08:12 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-30 20:08:12 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-30 20:08:12 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-30 20:08:12 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-30 20:08:12 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-30 20:08:16 -init param start ...
+2018-11-30 20:08:16 -init param end ...
+2018-11-30 20:08:31 -Detected dialect: OSS
+2018-11-30 20:12:29 -Detected dialect: OSS
+2018-11-30 20:12:36 -Starting without optional epoll library
+2018-11-30 20:12:36 -Starting without optional kqueue library
+2018-11-30 20:15:53 -NewsInfoBean [id=1b0ef73dc6033337f884a7d851137e0d, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=17/18德甲第6轮视频集锦, title_imgs=[https://static.59isport.com/news/20181130/415256e16a36bc682be199f58ac1f859_640x360.jpg], content=, index_url=http://sports.qq.com/isocce/bundesligavideo.htm, url=https://v.qq.com/x/page/i0024rhjat6.html, pub_date=2017-09-24 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 德甲 斯图加特 奥格斯堡 达-席尔瓦, remark=null, create_date=2018-11-30 20:15:52, dispose_state=1, redio_url= https://static.59isport.com/video/20181130/874899c4d2f9bbc7e23b88dfb52a83ff_28569691.mp4]
+2018-11-30 20:16:00 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-30 20:16:02 -Kafka version : 1.0.1
+2018-11-30 20:16:02 -Kafka commitId : c0518aa65f25317e
+2018-11-30 20:16:03 -mongo,kafka 成功

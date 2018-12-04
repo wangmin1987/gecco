@@ -1,0 +1,374 @@
+2018-11-23 18:01:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:01:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:01:18 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:01:18 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:01:22 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:01:23 -Opened connection [connectionId{localValue:1, serverValue:6306}] to dev.59isport.com:27017
+2018-11-23 18:01:23 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=19169400}
+2018-11-23 18:01:24 -Opened connection [connectionId{localValue:2, serverValue:6307}] to dev.59isport.com:27017
+2018-11-23 18:01:24 -initializing...
+2018-11-23 18:01:25 -初始化开始。。。。。
+2018-11-23 18:01:26 -no modules loaded
+2018-11-23 18:01:26 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:01:26 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:01:26 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:01:26 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:01:26 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:01:34 -Redisson 3.8.0
+2018-11-23 18:01:34 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-23 18:01:34 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-23 18:01:35 -Reflections took 205 ms to scan 4 urls, producing 54 keys and 401 values 
+2018-11-23 18:01:35 -init param start ...
+2018-11-23 18:01:35 -init param end ...
+2018-11-23 18:01:37 -Reflections took 66 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-23 18:01:40 -HikariPool-1 - Starting...
+2018-11-23 18:02:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:02:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:02:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:02:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:02:12 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:02:12 -Opened connection [connectionId{localValue:1, serverValue:6308}] to dev.59isport.com:27017
+2018-11-23 18:02:12 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16049800}
+2018-11-23 18:02:12 -Opened connection [connectionId{localValue:2, serverValue:6309}] to dev.59isport.com:27017
+2018-11-23 18:02:12 -initializing...
+2018-11-23 18:02:13 -初始化开始。。。。。
+2018-11-23 18:02:13 -no modules loaded
+2018-11-23 18:02:13 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:02:13 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:02:13 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:02:13 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:02:13 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:02:17 -init param start ...
+2018-11-23 18:02:17 -init param end ...
+2018-11-23 18:02:34 -Detected dialect: OSS
+2018-11-23 18:03:09 -NewsInfoBean [id=4c539e2c848a56f59de6aa964a73083c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA第6周最佳比赛集锦 詹皇重回速贷中心勇士遭遇四连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a0028rb0m4o.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 勇士 湖人 勒布朗-詹姆斯, remark=null, create_date=2018-11-23 18:03:09, dispose_state=2, redio_url= blob:https://v.qq.com/7170fe1f-c03f-419a-9848-a89dfc4be232]
+2018-11-23 18:03:09 -mongo,kafka 成功
+2018-11-23 18:03:15 -NewsInfoBean [id=d3828c4024107f8edae45fb1fb8da370, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=会用筷子的球星有饭吃 吃的还挺香！, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00280chz2n.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 明星花边, remark=null, create_date=2018-11-23 18:03:15, dispose_state=2, redio_url= blob:https://v.qq.com/d32ca734-6d43-470f-a0b3-88c0c691192e]
+2018-11-23 18:03:15 -mongo,kafka 成功
+2018-11-23 18:03:19 -NewsInfoBean [id=0a0b8a2cc54ad89835699b9b902d1742, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=23日NBA头条 篮网跨界联手意甲豪门裁判两失误送马刺败局, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028qug2bl.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 灰熊 马刺 NBA头条, remark=null, create_date=2018-11-23 18:03:19, dispose_state=2, redio_url= blob:https://v.qq.com/5df325fe-207a-4b53-a46a-b2b3509cdb03]
+2018-11-23 18:03:19 -mongo,kafka 成功
+2018-11-23 18:07:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:07:24 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:07:24 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:07:24 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:07:27 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:07:28 -Opened connection [connectionId{localValue:1, serverValue:6310}] to dev.59isport.com:27017
+2018-11-23 18:07:28 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16484800}
+2018-11-23 18:07:28 -Opened connection [connectionId{localValue:2, serverValue:6311}] to dev.59isport.com:27017
+2018-11-23 18:07:28 -initializing...
+2018-11-23 18:07:29 -初始化开始。。。。。
+2018-11-23 18:07:30 -no modules loaded
+2018-11-23 18:07:30 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:07:30 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:07:30 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:07:30 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:07:30 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:07:34 -init param start ...
+2018-11-23 18:07:34 -init param end ...
+2018-11-23 18:07:45 -Detected dialect: OSS
+2018-11-23 18:09:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:09:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:09:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:09:01 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:09:06 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:09:06 -Opened connection [connectionId{localValue:1, serverValue:6312}] to dev.59isport.com:27017
+2018-11-23 18:09:06 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10583000}
+2018-11-23 18:09:06 -Opened connection [connectionId{localValue:2, serverValue:6313}] to dev.59isport.com:27017
+2018-11-23 18:09:07 -initializing...
+2018-11-23 18:09:07 -初始化开始。。。。。
+2018-11-23 18:09:08 -no modules loaded
+2018-11-23 18:09:08 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:09:08 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:09:08 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:09:08 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:09:08 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:09:14 -init param start ...
+2018-11-23 18:09:14 -init param end ...
+2018-11-23 18:09:22 -Detected dialect: OSS
+2018-11-23 18:09:35 -NewsInfoBean [id=4c539e2c848a56f59de6aa964a73083c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA第6周最佳比赛集锦 詹皇重回速贷中心勇士遭遇四连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a0028rb0m4o.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 勇士 湖人 勒布朗-詹姆斯, remark=null, create_date=2018-11-23 18:09:34, dispose_state=1, redio_url= null]
+2018-11-23 18:09:38 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-23 18:09:40 -Kafka version : 1.0.1
+2018-11-23 18:09:40 -Kafka commitId : c0518aa65f25317e
+2018-11-23 18:09:40 -mongo,kafka 成功
+2018-11-23 18:09:45 -NewsInfoBean [id=d3828c4024107f8edae45fb1fb8da370, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=会用筷子的球星有饭吃 吃的还挺香！, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00280chz2n.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 明星花边, remark=null, create_date=2018-11-23 18:09:45, dispose_state=1, redio_url= null]
+2018-11-23 18:09:45 -mongo,kafka 成功
+2018-11-23 18:09:52 -NewsInfoBean [id=0a0b8a2cc54ad89835699b9b902d1742, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=23日NBA头条 篮网跨界联手意甲豪门裁判两失误送马刺败局, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028qug2bl.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 灰熊 马刺 NBA头条, remark=null, create_date=2018-11-23 18:09:52, dispose_state=1, redio_url= null]
+2018-11-23 18:09:52 -mongo,kafka 成功
+2018-11-23 18:11:22 -NewsInfoBean [id=7d1e810e3354293927e4e0f891eb8a47, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/n0028hb0s6v.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:11:22, dispose_state=1, redio_url= null]
+2018-11-23 18:11:22 -mongo,kafka 成功
+2018-11-23 18:12:59 -NewsInfoBean [id=01fe4d4f046413ba614691628e1faca0, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028eozs26.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:12:59, dispose_state=1, redio_url= https://static.59isport.com/video/20181123/b314e3cc85a54a25774a03d738e83e51.mp4]
+2018-11-23 18:12:59 -mongo,kafka 成功
+2018-11-23 18:13:05 -NewsInfoBean [id=c721c81e6573ea2e4d1ecc1a60d1b300, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA感恩发布本赛季最神奇瞬间 保罗罕见摘帽钱德勒制胜铁拳, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/v0028tz10s1.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 火箭 克里斯-保罗 盖帽 全景NBA, remark=null, create_date=2018-11-23 18:13:05, dispose_state=1, redio_url= null]
+2018-11-23 18:13:05 -mongo,kafka 成功
+2018-11-23 18:13:09 -NewsInfoBean [id=bbe7a7eb7fb163855f29c7044cdb556e, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=萌神大秀中文 一封来自库里的感恩节贺电, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028j7lpei.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 斯蒂芬-库里 感恩节 全景NBA, remark=null, create_date=2018-11-23 18:13:09, dispose_state=1, redio_url= null]
+2018-11-23 18:13:09 -mongo,kafka 成功
+2018-11-23 18:13:24 -NewsInfoBean [id=56994913701b373a6d586af79264f06c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=真是和他爸爸长得一模一样！韦德家小公主也太可爱了, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/m0028hujen5.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 体育星二代 全景NBA, remark=null, create_date=2018-11-23 18:13:24, dispose_state=2, redio_url= https://static.59isport.com/video/20181123/0d35269e2b0e86c206054a595d41a93a.mp4]
+2018-11-23 18:13:24 -mongo,kafka 成功
+2018-11-23 18:13:27 -NewsInfoBean [id=2a8edfcfa2379d9c05bcbe88e6b44c73, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=林书豪专访：要100%为老鹰打球 恭喜卡特25000分, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/d00284ih6hm.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 老鹰 林书豪 球星采访, remark=null, create_date=2018-11-23 18:13:27, dispose_state=1, redio_url= null]
+2018-11-23 18:13:28 -mongo,kafka 成功
+2018-11-23 18:14:58 -NewsInfoBean [id=70200d6ffc70f41c06dc09221006076b, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i00285nyle2.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:14:58, dispose_state=1, redio_url= https://static.59isport.com/video/20181123/38e5fbcbf10a5e192fca4cdd2d6ba537.mp4]
+2018-11-23 18:14:58 -mongo,kafka 成功
+2018-11-23 18:15:03 -NewsInfoBean [id=82aebe47047315e21025aca350b0d6c4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=一步到胃？字母哥生疏切火鸡被女友嫌弃, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/y0028xti1zt.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 扬尼斯-阿德托昆博 明星花边 全景NBA, remark=null, create_date=2018-11-23 18:15:03, dispose_state=1, redio_url= null]
+2018-11-23 18:15:03 -mongo,kafka 成功
+2018-11-23 18:17:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:17:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:17:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:17:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:17:29 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:17:30 -Opened connection [connectionId{localValue:1, serverValue:6316}] to dev.59isport.com:27017
+2018-11-23 18:17:30 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=15748700}
+2018-11-23 18:17:30 -Opened connection [connectionId{localValue:2, serverValue:6317}] to dev.59isport.com:27017
+2018-11-23 18:17:31 -initializing...
+2018-11-23 18:17:32 -初始化开始。。。。。
+2018-11-23 18:17:33 -no modules loaded
+2018-11-23 18:17:33 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:17:33 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:17:33 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:17:33 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:17:33 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:17:38 -init param start ...
+2018-11-23 18:17:38 -init param end ...
+2018-11-23 18:17:54 -Detected dialect: OSS
+2018-11-23 18:18:10 -NewsInfoBean [id=4c539e2c848a56f59de6aa964a73083c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA第6周最佳比赛集锦 詹皇重回速贷中心勇士遭遇四连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a0028rb0m4o.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 勇士 湖人 勒布朗-詹姆斯, remark=null, create_date=2018-11-23 18:18:10, dispose_state=2, redio_url= null]
+2018-11-23 18:18:15 -NewsInfoBean [id=d3828c4024107f8edae45fb1fb8da370, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=会用筷子的球星有饭吃 吃的还挺香！, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00280chz2n.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 明星花边, remark=null, create_date=2018-11-23 18:18:15, dispose_state=2, redio_url= null]
+2018-11-23 18:18:21 -NewsInfoBean [id=0a0b8a2cc54ad89835699b9b902d1742, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=23日NBA头条 篮网跨界联手意甲豪门裁判两失误送马刺败局, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028qug2bl.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 灰熊 马刺 NBA头条, remark=null, create_date=2018-11-23 18:18:21, dispose_state=2, redio_url= null]
+2018-11-23 18:20:00 -NewsInfoBean [id=7d1e810e3354293927e4e0f891eb8a47, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/n0028hb0s6v.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:20:00, dispose_state=2, redio_url= null]
+2018-11-23 18:21:45 -NewsInfoBean [id=01fe4d4f046413ba614691628e1faca0, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028eozs26.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:21:45, dispose_state=2, redio_url= https://static.59isport.com/video/20181123/53b62c861081702df15fe2c6424199bc.mp4]
+2018-11-23 18:21:54 -NewsInfoBean [id=c721c81e6573ea2e4d1ecc1a60d1b300, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA感恩发布本赛季最神奇瞬间 保罗罕见摘帽钱德勒制胜铁拳, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/v0028tz10s1.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 火箭 克里斯-保罗 盖帽 全景NBA, remark=null, create_date=2018-11-23 18:21:54, dispose_state=2, redio_url= null]
+2018-11-23 18:22:00 -NewsInfoBean [id=bbe7a7eb7fb163855f29c7044cdb556e, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=萌神大秀中文 一封来自库里的感恩节贺电, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028j7lpei.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 斯蒂芬-库里 感恩节 全景NBA, remark=null, create_date=2018-11-23 18:22:00, dispose_state=2, redio_url= null]
+2018-11-23 18:22:06 -NewsInfoBean [id=56994913701b373a6d586af79264f06c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=真是和他爸爸长得一模一样！韦德家小公主也太可爱了, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/m0028hujen5.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 体育星二代 全景NBA, remark=null, create_date=2018-11-23 18:22:06, dispose_state=2, redio_url= null]
+2018-11-23 18:22:10 -NewsInfoBean [id=2a8edfcfa2379d9c05bcbe88e6b44c73, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=林书豪专访：要100%为老鹰打球 恭喜卡特25000分, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/d00284ih6hm.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 老鹰 林书豪 球星采访, remark=null, create_date=2018-11-23 18:22:10, dispose_state=2, redio_url= null]
+2018-11-23 18:23:42 -NewsInfoBean [id=70200d6ffc70f41c06dc09221006076b, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=null, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i00285nyle2.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:23:42, dispose_state=2, redio_url= https://static.59isport.com/video/20181123/3db8ff6a7f6b4fe012a355dd385f177d.mp4]
+2018-11-23 18:23:47 -NewsInfoBean [id=82aebe47047315e21025aca350b0d6c4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=一步到胃？字母哥生疏切火鸡被女友嫌弃, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/y0028xti1zt.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 扬尼斯-阿德托昆博 明星花边 全景NBA, remark=null, create_date=2018-11-23 18:23:47, dispose_state=2, redio_url= null]
+2018-11-23 18:26:10 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:26:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:26:11 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:26:11 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:26:16 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:26:16 -Opened connection [connectionId{localValue:1, serverValue:6328}] to dev.59isport.com:27017
+2018-11-23 18:26:16 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16342000}
+2018-11-23 18:26:17 -Opened connection [connectionId{localValue:2, serverValue:6329}] to dev.59isport.com:27017
+2018-11-23 18:26:17 -initializing...
+2018-11-23 18:26:18 -初始化开始。。。。。
+2018-11-23 18:26:19 -no modules loaded
+2018-11-23 18:26:19 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:26:19 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:26:19 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:26:19 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:26:19 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:26:24 -init param start ...
+2018-11-23 18:26:24 -init param end ...
+2018-11-23 18:26:48 -Detected dialect: OSS
+2018-11-23 18:27:11 -NewsInfoBean [id=4c539e2c848a56f59de6aa964a73083c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA第6周最佳比赛集锦 詹皇重回速贷中心勇士遭遇四连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a0028rb0m4o.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 勇士 湖人 勒布朗-詹姆斯, remark=null, create_date=2018-11-23 18:27:11, dispose_state=2, redio_url= null]
+2018-11-23 18:27:18 -NewsInfoBean [id=d3828c4024107f8edae45fb1fb8da370, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=会用筷子的球星有饭吃 吃的还挺香！, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00280chz2n.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 明星花边, remark=null, create_date=2018-11-23 18:27:18, dispose_state=2, redio_url= null]
+2018-11-23 18:27:28 -NewsInfoBean [id=0a0b8a2cc54ad89835699b9b902d1742, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=23日NBA头条 篮网跨界联手意甲豪门裁判两失误送马刺败局, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028qug2bl.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 灰熊 马刺 NBA头条, remark=null, create_date=2018-11-23 18:27:28, dispose_state=2, redio_url= null]
+2018-11-23 18:30:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:30:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 18:30:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 18:30:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 18:30:27 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 18:30:28 -Opened connection [connectionId{localValue:1, serverValue:6332}] to dev.59isport.com:27017
+2018-11-23 18:30:28 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16137400}
+2018-11-23 18:30:28 -Opened connection [connectionId{localValue:2, serverValue:6333}] to dev.59isport.com:27017
+2018-11-23 18:30:28 -initializing...
+2018-11-23 18:30:29 -初始化开始。。。。。
+2018-11-23 18:30:30 -no modules loaded
+2018-11-23 18:30:30 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 18:30:30 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 18:30:30 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 18:30:30 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 18:30:30 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 18:30:35 -init param start ...
+2018-11-23 18:30:35 -init param end ...
+2018-11-23 18:30:45 -Detected dialect: OSS
+2018-11-23 18:31:03 -NewsInfoBean [id=4c539e2c848a56f59de6aa964a73083c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA第6周最佳比赛集锦 詹皇重回速贷中心勇士遭遇四连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a0028rb0m4o.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 勇士 湖人 勒布朗-詹姆斯, remark=null, create_date=2018-11-23 18:31:03, dispose_state=2, redio_url= null]
+2018-11-23 18:31:17 -NewsInfoBean [id=d3828c4024107f8edae45fb1fb8da370, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=会用筷子的球星有饭吃 吃的还挺香！, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00280chz2n.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 明星花边, remark=null, create_date=2018-11-23 18:31:17, dispose_state=2, redio_url= null]
+2018-11-23 18:31:24 -NewsInfoBean [id=0a0b8a2cc54ad89835699b9b902d1742, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=23日NBA头条 篮网跨界联手意甲豪门裁判两失误送马刺败局, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028qug2bl.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 灰熊 马刺 NBA头条, remark=null, create_date=2018-11-23 18:31:24, dispose_state=2, redio_url= null]
+2018-11-23 18:32:56 -NewsInfoBean [id=7d1e810e3354293927e4e0f891eb8a47, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=哈登vs格里芬巅峰一战 两人对飙81分上演09届狂野内战, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/n0028hb0s6v.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:32:56, dispose_state=1, redio_url= https://static.59isport.com/video/20181123/0de0fef30e456490ebe9efc45ad38b77.mp4]
+2018-11-23 18:32:57 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-23 18:32:58 -Kafka version : 1.0.1
+2018-11-23 18:32:58 -Kafka commitId : c0518aa65f25317e
+2018-11-23 18:32:59 -mongo,kafka 成功
+2018-11-23 18:34:11 -NewsInfoBean [id=01fe4d4f046413ba614691628e1faca0, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=那些年NBA的经典吻戏 巴克利亲吻驴臀PK奥尼尔老少通吃, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028eozs26.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:34:11, dispose_state=1, redio_url= https://static.59isport.com/video/20181123/4a7d10f6636a527039e4901482ec517c.mp4]
+2018-11-23 18:34:11 -mongo,kafka 成功
+2018-11-23 18:34:17 -NewsInfoBean [id=c721c81e6573ea2e4d1ecc1a60d1b300, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA感恩发布本赛季最神奇瞬间 保罗罕见摘帽钱德勒制胜铁拳, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/v0028tz10s1.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 火箭 克里斯-保罗 盖帽 全景NBA, remark=null, create_date=2018-11-23 18:34:17, dispose_state=2, redio_url= null]
+2018-11-23 18:34:20 -NewsInfoBean [id=bbe7a7eb7fb163855f29c7044cdb556e, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=萌神大秀中文 一封来自库里的感恩节贺电, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028j7lpei.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 斯蒂芬-库里 感恩节 全景NBA, remark=null, create_date=2018-11-23 18:34:20, dispose_state=2, redio_url= null]
+2018-11-23 18:34:24 -NewsInfoBean [id=56994913701b373a6d586af79264f06c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=真是和他爸爸长得一模一样！韦德家小公主也太可爱了, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/m0028hujen5.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 德怀恩-韦德 体育星二代 全景NBA, remark=null, create_date=2018-11-23 18:34:24, dispose_state=2, redio_url= null]
+2018-11-23 18:34:28 -NewsInfoBean [id=2a8edfcfa2379d9c05bcbe88e6b44c73, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=林书豪专访：要100%为老鹰打球 恭喜卡特25000分, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/d00284ih6hm.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 老鹰 林书豪 球星采访, remark=null, create_date=2018-11-23 18:34:28, dispose_state=2, redio_url= null]
+2018-11-23 18:35:32 -NewsInfoBean [id=70200d6ffc70f41c06dc09221006076b, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=《麦克海尔对话“大鸟”伯德》EP5-荣辱与共, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i00285nyle2.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:35:32, dispose_state=2, redio_url= null]
+2018-11-23 18:35:36 -NewsInfoBean [id=82aebe47047315e21025aca350b0d6c4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=一步到胃？字母哥生疏切火鸡被女友嫌弃, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/y0028xti1zt.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 扬尼斯-阿德托昆博 明星花边 全景NBA, remark=null, create_date=2018-11-23 18:35:36, dispose_state=2, redio_url= null]
+2018-11-23 18:36:46 -NewsInfoBean [id=41bb3b2332e80795db4a14b75abc11c4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=《三分进化论》EP3-已成主流 三分改变联盟, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/z00286c1gpu.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:36:46, dispose_state=1, redio_url= https://static.59isport.com/video/20181123/30a338f6793cc22b6daba12ac353a18a.mp4]
+2018-11-23 18:36:46 -mongo,kafka 成功
+2018-11-23 18:36:50 -NewsInfoBean [id=35a227aa25ee904c1176608b2fec300c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=韦少带娃送上感恩节祝福 小韦少一脸傲娇激萌无比, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/f0028px8j66.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 拉塞尔-韦斯布鲁克 体育星二代 全景NBA, remark=null, create_date=2018-11-23 18:36:50, dispose_state=2, redio_url= null]
+2018-11-23 18:37:54 -NewsInfoBean [id=7bc066e2afd810fe4724542830b83536, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=《三分进化论》EP1-三分初登联盟 噱头而已？, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/m0028r8av2e.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:37:54, dispose_state=2, redio_url= null]
+2018-11-23 18:38:57 -NewsInfoBean [id=84c71f94aa4904c3202bf3646094e3bc, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=《三分进化论》EP2-威力尽显 乔丹三分也挣扎, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/v002852lv7l.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:38:57, dispose_state=2, redio_url= null]
+2018-11-23 18:39:01 -NewsInfoBean [id=a323f3f016b8824db741e30b31d8670f, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=内忧外患四连败 恶搞勇士感恩节晚餐阿杜掀桌子, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/v0028zeatc6.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 勇士 凯文-杜兰特 爆笑体育, remark=null, create_date=2018-11-23 18:39:01, dispose_state=2, redio_url= null]
+2018-11-23 18:39:04 -NewsInfoBean [id=0fe2f855818517da024cb2af1ef19451, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=一阵魔性的笑声 詹姆斯感恩节家庭聚餐感受一下, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/q0028fdnpm5.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 勒布朗-詹姆斯 明星花边 全景NBA, remark=null, create_date=2018-11-23 18:39:04, dispose_state=2, redio_url= null]
+2018-11-23 18:39:08 -NewsInfoBean [id=367d4e76c797201d29220c3b2c5e3f96, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA最真挚的感谢 感受球员与球迷那些温馨瞬间, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/s0028gu9w7x.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 赛场花絮, remark=null, create_date=2018-11-23 18:39:08, dispose_state=2, redio_url= null]
+2018-11-23 18:39:12 -NewsInfoBean [id=360bfbbc2ffb7bb7bdc190821effe7df, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=科比问候腾讯体育球迷 希望大家学到曼巴精神精髓, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/q0028pb8jvh.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 科比-布莱恩特 明星花边, remark=null, create_date=2018-11-23 18:39:12, dispose_state=2, redio_url= null]
+2018-11-23 18:39:15 -NewsInfoBean [id=35d4bd968741ecde8463881494686d70, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=专访篮网中锋艾伦：感恩节和妈妈一起过 感谢有机会征战NBA, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/x0028k6bah1.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 篮网 贾勒特艾伦 球星采访 全景NBA, remark=null, create_date=2018-11-23 18:39:15, dispose_state=2, redio_url= null]
+2018-11-23 18:39:21 -NewsInfoBean [id=5d01a6b83de177fc7516e29e11cba10d, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【原声回放】雷霆vs勇士第3节 施罗德接管比赛三分雨下不停, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/i0028f13g5p.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 篮球赛事 NBA 勇士 雷霆 丹尼斯-施罗德 三分球, remark=null, create_date=2018-11-23 18:39:21, dispose_state=2, redio_url= null]
+2018-11-23 18:39:24 -NewsInfoBean [id=b02278ebbfffd51656161fe4ffb71f6c, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【原声回放】雷霆vs勇士第1节 高瘦远投王KD连续飙分, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/k0028gh8j1f.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 篮球赛事 NBA 雷霆 勇士 凯文-杜兰特, remark=null, create_date=2018-11-23 18:39:24, dispose_state=2, redio_url= null]
+2018-11-23 18:39:28 -NewsInfoBean [id=36a7e0bbfc45c28f448152fa0356da28, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=第5期 NBA球员生财之道 詹姆斯爱投资杜兰特开餐厅, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/z0028mc65da.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 勒布朗-詹姆斯 姚明 明星花边, remark=null, create_date=2018-11-23 18:39:28, dispose_state=2, redio_url= null]
+2018-11-23 18:39:32 -NewsInfoBean [id=7e6365b314e46e39a7c42dc8914a9fc4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【花絮】NBA里的商业天才 詹姆斯伊戈达拉酷爱投资, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/c0028dwk9r2.html, pub_date=2018-11-23 00:00, author=null, author_img=null, key_word=篮球 视频 勒布朗-詹姆斯 安德鲁-伊格达拉 明星花边, remark=null, create_date=2018-11-23 18:39:32, dispose_state=2, redio_url= null]
+2018-11-23 18:40:35 -NewsInfoBean [id=1462e0b3c1ee4aca15e9f4c2d3098f65, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=詹姆斯与科比的友谊，詹皇模仿科比的经典动作，科比哈哈大笑, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/q07998gwo18.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:40:35, dispose_state=2, redio_url= null]
+2018-11-23 18:40:39 -NewsInfoBean [id=1c50305240a26ab0cc9002a28b45fd7f, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=新赛季目前为止受伤合集 勒维尔断腿库里大腿拉伤, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/r07998sh5gy.html, pub_date=, author=null, author_img=null, key_word=篮球 视频      , remark=null, create_date=2018-11-23 18:40:39, dispose_state=2, redio_url= null]
+2018-11-23 18:40:43 -NewsInfoBean [id=d1a7716aa7f6a371c9c8214415edabe0, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=盘点NBA球星重回原主队球场时刻 詹皇两回主场待遇不同KD糟狂嘘, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/m07997z7uln.html, pub_date=, author=null, author_img=null, key_word=篮球 视频      , remark=null, create_date=2018-11-23 18:40:43, dispose_state=2, redio_url= null]
+2018-11-23 18:41:47 -NewsInfoBean [id=d4f8a0a8880db126c67b0ab37b9ebc16, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=NBA开设主题乐园“从娃娃抓起”？瞄准中国市场疯狂捞金, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/p0799t9u33w.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 18:41:47, dispose_state=2, redio_url= null]
+2018-11-23 18:41:52 -NewsInfoBean [id=8399b0b2258b6790890ea7792cc2e082, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=22日NBA十佳球 格里芬惊天隔扣半人半神暴扣突破25000分, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/h0028r1avca.html, pub_date=2018-11-22 00:00, author=null, author_img=null, key_word=篮球 视频 篮球赛事 NBA 老鹰 文斯-卡特 活塞 布雷克-格里芬 扣篮, remark=null, create_date=2018-11-23 18:41:52, dispose_state=2, redio_url= null]
+2018-11-23 18:41:57 -NewsInfoBean [id=40deb7fd02251147731a511eae796a68, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=《NBA情报局》11月24日森林狼vs篮网 唐斯能否率队止连败, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/a00281zzz1x.html, pub_date=2018-11-22 00:00, author=null, author_img=null, key_word=篮球 视频 NBA 篮网 森林狼 卡尔-安东尼-唐斯, remark=null, create_date=2018-11-23 18:41:57, dispose_state=2, redio_url= null]
+2018-11-23 18:42:01 -[Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2018-11-23 18:42:01 -Closed connection [connectionId{localValue:2, serverValue:6333}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-23 19:08:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 19:08:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 19:08:44 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 19:08:44 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 19:08:48 -Initializing ProtocolHandler ["http-nio-9093"]
+2018-11-23 19:08:48 -Starting service [Tomcat]
+2018-11-23 19:08:48 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2018-11-23 19:08:48 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_191\bin;D:\TortoiseSVN\bin;D:\apache-maven-3.5.4\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\八斗体育\AppData\Local\Microsoft\WindowsApps;;D:\Fiddler;C:\Users\八斗体育\Desktop;;.]
+2018-11-23 19:08:49 -Initializing Spring embedded WebApplicationContext
+2018-11-23 19:09:06 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 19:09:06 -Opened connection [connectionId{localValue:1, serverValue:6334}] to dev.59isport.com:27017
+2018-11-23 19:09:07 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=12013400}
+2018-11-23 19:09:07 -Opened connection [connectionId{localValue:2, serverValue:6335}] to dev.59isport.com:27017
+2018-11-23 19:09:08 -initializing...
+2018-11-23 19:09:11 -初始化开始。。。。。
+2018-11-23 19:09:12 -no modules loaded
+2018-11-23 19:09:12 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 19:09:12 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 19:09:12 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 19:09:12 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 19:09:12 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 19:09:36 -init param start ...
+2018-11-23 19:09:36 -init param end ...
+2018-11-23 19:09:40 -Starting ProtocolHandler ["http-nio-9093"]
+2018-11-23 19:09:40 -Using a shared selector for servlet write/read
+2018-11-23 19:13:51 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 19:13:52 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-23 19:13:52 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-23 19:13:52 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-23 19:13:58 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-23 19:13:58 -Opened connection [connectionId{localValue:1, serverValue:6336}] to dev.59isport.com:27017
+2018-11-23 19:13:58 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=38615000}
+2018-11-23 19:13:59 -Opened connection [connectionId{localValue:2, serverValue:6337}] to dev.59isport.com:27017
+2018-11-23 19:13:59 -initializing...
+2018-11-23 19:14:00 -初始化开始。。。。。
+2018-11-23 19:14:01 -no modules loaded
+2018-11-23 19:14:01 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-23 19:14:01 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-23 19:14:01 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-23 19:14:01 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-23 19:14:01 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-23 19:14:06 -init param start ...
+2018-11-23 19:14:06 -init param end ...
+2018-11-23 19:15:10 -Detected dialect: OSS
+2018-11-23 19:17:51 -NewsInfoBean [id=c58dda65cd286ca1c9ddfc48bc06cf60, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=科比真“坏” 梦幻脚步戏耍詹姆斯全场疯狂 NBA经典画面, title_imgs=[], content=, index_url=http://sports.qq.com/nbavideo/query/, url=https://v.qq.com/x/page/p0800tgqgu5.html, pub_date=null, author=null, author_img=null, key_word=篮球 视频, remark=null, create_date=2018-11-23 19:17:51, dispose_state=2, redio_url= null]

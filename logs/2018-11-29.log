@@ -1,0 +1,1040 @@
+2018-11-29 10:22:45 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 10:22:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 10:22:46 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 10:22:46 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 10:22:54 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 10:22:54 -Opened connection [connectionId{localValue:1, serverValue:6820}] to dev.59isport.com:27017
+2018-11-29 10:22:54 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18785800}
+2018-11-29 10:22:55 -Opened connection [connectionId{localValue:2, serverValue:6821}] to dev.59isport.com:27017
+2018-11-29 10:22:55 -initializing...
+2018-11-29 10:22:56 -初始化开始。。。。。
+2018-11-29 10:22:57 -no modules loaded
+2018-11-29 10:22:57 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 10:22:57 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 10:22:57 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 10:22:57 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 10:22:57 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 10:23:02 -init param start ...
+2018-11-29 10:23:02 -init param end ...
+2018-11-29 10:24:15 -Closed connection [connectionId{localValue:2, serverValue:6821}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-29 10:25:37 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 10:25:38 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 10:25:38 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 10:25:38 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 10:25:43 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 10:25:44 -Opened connection [connectionId{localValue:1, serverValue:6822}] to dev.59isport.com:27017
+2018-11-29 10:25:44 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=20992200}
+2018-11-29 10:25:44 -Opened connection [connectionId{localValue:2, serverValue:6823}] to dev.59isport.com:27017
+2018-11-29 10:25:45 -initializing...
+2018-11-29 10:25:46 -初始化开始。。。。。
+2018-11-29 10:25:47 -no modules loaded
+2018-11-29 10:25:47 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 10:25:47 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 10:25:47 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 10:25:47 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 10:25:47 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 10:25:52 -init param start ...
+2018-11-29 10:25:52 -init param end ...
+2018-11-29 10:26:18 -Detected dialect: OSS
+2018-11-29 10:27:00 -Detected dialect: OSS
+2018-11-29 10:28:22 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 10:28:22, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 10:28:22, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/faec4b4a0bd6a505d8e8b0754d2b4954.ts]
+2018-11-29 10:28:24 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 10:28:25 -Kafka version : 1.0.1
+2018-11-29 10:28:25 -Kafka commitId : c0518aa65f25317e
+2018-11-29 10:28:26 -mongo,kafka 成功
+2018-11-29 10:29:24 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-29 10:29:24, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 10:29:24, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/8ed6b79c708165e18021f44a61647e2e.ts]
+2018-11-29 10:29:24 -mongo,kafka 成功
+2018-11-29 10:30:19 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-29 10:30:19, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 10:30:19, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/751dfc0d8c839fa0dba966c5c2ddcd92.ts]
+2018-11-29 10:30:19 -mongo,kafka 成功
+2018-11-29 10:31:13 -NewsInfoBean [id=a7720296ef19278236a63a08f6c786c7, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]战胜法国捧杯 克罗地亚网球队成国民英雄, title_imgs=[https://static.59isport.com/news/20181129/664fada169d7d0f33aa87c512e9ff5bf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEkaPzuNZ8RW3XYQIccy5Y181127.shtml, pub_date=2018-11-29 10:31:13, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 10:31:13, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/4b79db922bedf552ae37a41880632f0e.ts]
+2018-11-29 10:31:13 -mongo,kafka 成功
+2018-11-29 11:15:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:15:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:15:10 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 11:15:10 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 11:15:23 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 11:15:24 -Opened connection [connectionId{localValue:1, serverValue:6840}] to dev.59isport.com:27017
+2018-11-29 11:15:24 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10615000}
+2018-11-29 11:15:24 -Opened connection [connectionId{localValue:2, serverValue:6841}] to dev.59isport.com:27017
+2018-11-29 11:15:25 -initializing...
+2018-11-29 11:15:26 -初始化开始。。。。。
+2018-11-29 11:15:27 -no modules loaded
+2018-11-29 11:15:27 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 11:15:27 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 11:15:27 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 11:15:27 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 11:15:27 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 11:15:34 -init param start ...
+2018-11-29 11:15:34 -init param end ...
+2018-11-29 11:16:32 -Closed connection [connectionId{localValue:2, serverValue:6841}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-29 11:36:35 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:36:35 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:36:35 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 11:36:35 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 11:36:42 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 11:36:43 -Opened connection [connectionId{localValue:1, serverValue:6849}] to dev.59isport.com:27017
+2018-11-29 11:36:43 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11044600}
+2018-11-29 11:36:43 -Opened connection [connectionId{localValue:2, serverValue:6850}] to dev.59isport.com:27017
+2018-11-29 11:36:44 -initializing...
+2018-11-29 11:36:44 -初始化开始。。。。。
+2018-11-29 11:36:45 -no modules loaded
+2018-11-29 11:36:45 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 11:36:45 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 11:36:45 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 11:36:45 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 11:36:45 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 11:36:52 -init param start ...
+2018-11-29 11:36:52 -init param end ...
+2018-11-29 11:37:53 -Closed connection [connectionId{localValue:2, serverValue:6850}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-29 11:39:03 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:39:03 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 11:39:03 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 11:39:03 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 11:39:11 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 11:39:12 -Opened connection [connectionId{localValue:1, serverValue:6853}] to dev.59isport.com:27017
+2018-11-29 11:39:12 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=27451600}
+2018-11-29 11:39:12 -Opened connection [connectionId{localValue:2, serverValue:6854}] to dev.59isport.com:27017
+2018-11-29 11:39:12 -initializing...
+2018-11-29 11:39:13 -初始化开始。。。。。
+2018-11-29 11:39:14 -no modules loaded
+2018-11-29 11:39:14 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 11:39:14 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 11:39:14 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 11:39:14 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 11:39:14 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 11:39:21 -init param start ...
+2018-11-29 11:39:21 -init param end ...
+2018-11-29 11:40:16 -Detected dialect: OSS
+2018-11-29 11:40:58 -Detected dialect: OSS
+2018-11-29 11:42:40 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 11:42:40, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 11:42:40, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.ts]
+2018-11-29 11:43:44 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-29 11:43:44, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 11:43:44, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.ts]
+2018-11-29 11:44:40 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-29 11:44:40, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 11:44:40, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.ts]
+2018-11-29 12:04:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 12:04:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 12:04:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 12:04:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 12:04:49 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 12:04:49 -Opened connection [connectionId{localValue:1, serverValue:6855}] to dev.59isport.com:27017
+2018-11-29 12:04:49 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10888200}
+2018-11-29 12:04:50 -Opened connection [connectionId{localValue:2, serverValue:6856}] to dev.59isport.com:27017
+2018-11-29 12:04:50 -initializing...
+2018-11-29 12:04:51 -初始化开始。。。。。
+2018-11-29 12:04:52 -no modules loaded
+2018-11-29 12:04:52 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 12:04:52 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 12:04:52 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 12:04:52 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 12:04:52 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 12:04:57 -init param start ...
+2018-11-29 12:04:57 -init param end ...
+2018-11-29 13:23:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:23:13 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:23:13 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 13:23:13 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 13:23:20 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 13:23:21 -Opened connection [connectionId{localValue:1, serverValue:6857}] to dev.59isport.com:27017
+2018-11-29 13:23:21 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18648500}
+2018-11-29 13:23:21 -Opened connection [connectionId{localValue:2, serverValue:6858}] to dev.59isport.com:27017
+2018-11-29 13:23:22 -initializing...
+2018-11-29 13:23:22 -初始化开始。。。。。
+2018-11-29 13:23:23 -no modules loaded
+2018-11-29 13:23:24 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 13:23:24 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 13:23:24 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 13:23:24 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 13:23:24 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 13:23:28 -init param start ...
+2018-11-29 13:23:28 -init param end ...
+2018-11-29 13:24:06 -Detected dialect: OSS
+2018-11-29 13:24:39 -Detected dialect: OSS
+2018-11-29 13:26:16 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 13:26:16, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:26:16, dispose_state=1, redio_url= http://asp.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/efb8b712da9b44fc9df166cf650d9093/3.ts]
+2018-11-29 13:27:10 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-29 13:27:10, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:27:10, dispose_state=1, redio_url= http://asp.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/1ec55d22c75f4719a4f0f32459621a32/5.ts]
+2018-11-29 13:29:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:29:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:29:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 13:29:40 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 13:29:45 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 13:29:45 -Opened connection [connectionId{localValue:1, serverValue:6859}] to dev.59isport.com:27017
+2018-11-29 13:29:45 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10318600}
+2018-11-29 13:29:46 -Opened connection [connectionId{localValue:2, serverValue:6860}] to dev.59isport.com:27017
+2018-11-29 13:29:46 -initializing...
+2018-11-29 13:29:46 -初始化开始。。。。。
+2018-11-29 13:29:47 -no modules loaded
+2018-11-29 13:29:47 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 13:29:47 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 13:29:47 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 13:29:47 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 13:29:47 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 13:29:51 -init param start ...
+2018-11-29 13:29:51 -init param end ...
+2018-11-29 13:30:10 -Detected dialect: OSS
+2018-11-29 13:30:25 -Detected dialect: OSS
+2018-11-29 13:31:54 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 13:31:53, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:31:54, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.ts]
+2018-11-29 13:32:51 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-29 13:32:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:32:51, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.ts]
+2018-11-29 13:33:49 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-29 13:33:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:33:49, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.ts]
+2018-11-29 13:34:46 -NewsInfoBean [id=a7720296ef19278236a63a08f6c786c7, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]战胜法国捧杯 克罗地亚网球队成国民英雄, title_imgs=[https://static.59isport.com/news/20181129/664fada169d7d0f33aa87c512e9ff5bf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEkaPzuNZ8RW3XYQIccy5Y181127.shtml, pub_date=2018-11-29 13:34:46, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:34:46, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/dc1d2326eb6259da45c1f47a1039aeef.ts]
+2018-11-29 13:35:40 -NewsInfoBean [id=841bcca07e5335867b73df85407e9e12, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]2018ATP年终总排名揭晓 小德位列第一, title_imgs=[https://static.59isport.com/news/20181129/f4df9f34e26ad252ea71afde2ad0dd83_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEa7R2TAifDSBcvsVLN6xy181127.shtml, pub_date=2018-11-29 13:35:40, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:35:40, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/38798423399710cc32e81a0d96591c9b.ts]
+2018-11-29 13:35:41 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 13:35:42 -Kafka version : 1.0.1
+2018-11-29 13:35:42 -Kafka commitId : c0518aa65f25317e
+2018-11-29 13:35:43 -mongo,kafka 成功
+2018-11-29 13:49:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:49:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 13:49:18 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 13:49:18 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 13:49:30 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 13:49:31 -Opened connection [connectionId{localValue:1, serverValue:6861}] to dev.59isport.com:27017
+2018-11-29 13:49:31 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=19428100}
+2018-11-29 13:49:31 -Opened connection [connectionId{localValue:2, serverValue:6862}] to dev.59isport.com:27017
+2018-11-29 13:49:32 -initializing...
+2018-11-29 13:49:33 -初始化开始。。。。。
+2018-11-29 13:49:34 -no modules loaded
+2018-11-29 13:49:34 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 13:49:34 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 13:49:34 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 13:49:34 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 13:49:34 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 13:49:41 -init param start ...
+2018-11-29 13:49:41 -init param end ...
+2018-11-29 13:50:26 -Detected dialect: OSS
+2018-11-29 13:51:04 -Detected dialect: OSS
+2018-11-29 13:53:02 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 13:53:02, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:53:02, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.ts]
+2018-11-29 13:53:38 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=更新时间：2018-11-28 13:03, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:53:38, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.ts]
+2018-11-29 13:54:16 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=更新时间：2018-11-27 22:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:54:16, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.ts]
+2018-11-29 13:54:51 -NewsInfoBean [id=a7720296ef19278236a63a08f6c786c7, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]战胜法国捧杯 克罗地亚网球队成国民英雄, title_imgs=[https://static.59isport.com/news/20181129/664fada169d7d0f33aa87c512e9ff5bf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEkaPzuNZ8RW3XYQIccy5Y181127.shtml, pub_date=更新时间：2018-11-27 22:45, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:54:51, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/dc1d2326eb6259da45c1f47a1039aeef.ts]
+2018-11-29 13:55:25 -NewsInfoBean [id=841bcca07e5335867b73df85407e9e12, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]2018ATP年终总排名揭晓 小德位列第一, title_imgs=[https://static.59isport.com/news/20181129/f4df9f34e26ad252ea71afde2ad0dd83_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEa7R2TAifDSBcvsVLN6xy181127.shtml, pub_date=更新时间：2018-11-27 13:01, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:55:25, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/38798423399710cc32e81a0d96591c9b.ts]
+2018-11-29 13:57:28 -NewsInfoBean [id=af448292297bb8bae07f41bd57f6b68c, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=null, title_imgs=[https://static.59isport.com/news/20181129/3f0eb7c084c0c953f51cbbb37e4ceff2_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/26/VIDEprwGnDwGmjftZKZzHYxO181126.shtml, pub_date=2018-11-29 13:57:28, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:57:28, dispose_state=2, redio_url= https://static.59isport.com/video/20181129/0b86163541e9dc1fdaeb223b156b9f5b.ts]
+2018-11-29 13:58:04 -NewsInfoBean [id=4a1d39e24bdb79a4c60e0fd51bccdb56, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]捧起戴维斯杯 格子军团终圆冠军梦, title_imgs=[https://static.59isport.com/news/20181129/193ddf795b8ff7ef7e0d3c9f8b668b3b_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/26/VIDEPAdXrmXP0Kfc3RNUIw4V181126.shtml, pub_date=更新时间：2018-11-26 12:33, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 13:58:04, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/897360901a826b9e0f0fe79bc07bf57f.ts]
+2018-11-29 13:58:05 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 13:58:06 -Kafka version : 1.0.1
+2018-11-29 13:58:06 -Kafka commitId : c0518aa65f25317e
+2018-11-29 13:58:06 -mongo,kafka 成功
+2018-11-29 14:14:44 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:14:44 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:14:44 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 14:14:44 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 14:14:53 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 14:14:54 -Opened connection [connectionId{localValue:1, serverValue:6863}] to dev.59isport.com:27017
+2018-11-29 14:14:54 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=22119600}
+2018-11-29 14:14:54 -Opened connection [connectionId{localValue:2, serverValue:6864}] to dev.59isport.com:27017
+2018-11-29 14:14:56 -initializing...
+2018-11-29 14:14:57 -初始化开始。。。。。
+2018-11-29 14:14:58 -no modules loaded
+2018-11-29 14:14:58 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 14:14:58 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 14:14:58 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 14:14:58 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 14:14:58 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 14:15:04 -init param start ...
+2018-11-29 14:15:04 -init param end ...
+2018-11-29 14:15:31 -Detected dialect: OSS
+2018-11-29 14:16:23 -Detected dialect: OSS
+2018-11-29 14:18:24 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 07:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 14:18:24, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.mp4]
+2018-11-29 14:19:01 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-28 13:03, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 14:19:01, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.mp4]
+2018-11-29 14:24:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:24:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:24:00 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 14:24:00 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 14:24:12 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 14:24:12 -Opened connection [connectionId{localValue:1, serverValue:6865}] to dev.59isport.com:27017
+2018-11-29 14:24:13 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=19067600}
+2018-11-29 14:24:13 -Opened connection [connectionId{localValue:2, serverValue:6866}] to dev.59isport.com:27017
+2018-11-29 14:24:13 -initializing...
+2018-11-29 14:24:14 -初始化开始。。。。。
+2018-11-29 14:24:15 -no modules loaded
+2018-11-29 14:24:15 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 14:24:15 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 14:24:15 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 14:24:15 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 14:24:15 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 14:24:19 -init param start ...
+2018-11-29 14:24:19 -init param end ...
+2018-11-29 14:27:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:27:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 14:27:32 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 14:27:32 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 14:27:37 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 14:27:38 -Opened connection [connectionId{localValue:1, serverValue:6867}] to dev.59isport.com:27017
+2018-11-29 14:27:38 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10934900}
+2018-11-29 14:27:38 -Opened connection [connectionId{localValue:2, serverValue:6868}] to dev.59isport.com:27017
+2018-11-29 14:27:39 -initializing...
+2018-11-29 14:27:39 -初始化开始。。。。。
+2018-11-29 14:27:40 -no modules loaded
+2018-11-29 14:27:40 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 14:27:40 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 14:27:40 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 14:27:40 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 14:27:40 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 14:27:46 -init param start ...
+2018-11-29 14:27:46 -init param end ...
+2018-11-29 14:28:04 -Detected dialect: OSS
+2018-11-29 14:28:41 -Detected dialect: OSS
+2018-11-29 14:30:21 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 07:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 14:30:21, dispose_state=1, redio_url= http://asp.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/efb8b712da9b44fc9df166cf650d9093/3.ts]
+2018-11-29 14:31:00 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-28 13:03, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 14:31:00, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.mp4]
+2018-11-29 14:31:51 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-27 22:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 14:31:51, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.mp4]
+2018-11-29 15:31:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:31:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:31:41 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 15:31:41 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 15:31:48 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 15:31:49 -Opened connection [connectionId{localValue:1, serverValue:6879}] to dev.59isport.com:27017
+2018-11-29 15:31:49 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16190300}
+2018-11-29 15:31:49 -Opened connection [connectionId{localValue:2, serverValue:6880}] to dev.59isport.com:27017
+2018-11-29 15:31:50 -initializing...
+2018-11-29 15:31:50 -初始化开始。。。。。
+2018-11-29 15:31:51 -no modules loaded
+2018-11-29 15:31:51 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 15:31:51 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 15:31:51 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 15:31:51 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 15:31:51 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 15:31:57 -init param start ...
+2018-11-29 15:31:57 -init param end ...
+2018-11-29 15:32:02 -Closed connection [connectionId{localValue:2, serverValue:6880}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-29 15:36:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:36:30 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:36:30 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 15:36:30 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 15:36:32 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 15:36:33 -Opened connection [connectionId{localValue:1, serverValue:6883}] to dev.59isport.com:27017
+2018-11-29 15:36:33 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18921700}
+2018-11-29 15:36:33 -Opened connection [connectionId{localValue:2, serverValue:6884}] to dev.59isport.com:27017
+2018-11-29 15:36:33 -initializing...
+2018-11-29 15:36:33 -初始化开始。。。。。
+2018-11-29 15:36:34 -no modules loaded
+2018-11-29 15:36:34 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 15:36:34 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 15:36:34 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 15:36:34 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 15:36:34 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 15:36:37 -init param start ...
+2018-11-29 15:36:37 -init param end ...
+2018-11-29 15:36:41 -Closed connection [connectionId{localValue:2, serverValue:6884}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-29 15:37:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:37:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:37:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 15:37:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 15:37:20 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 15:37:20 -Opened connection [connectionId{localValue:1, serverValue:6887}] to dev.59isport.com:27017
+2018-11-29 15:37:20 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18483200}
+2018-11-29 15:37:20 -Opened connection [connectionId{localValue:2, serverValue:6888}] to dev.59isport.com:27017
+2018-11-29 15:37:20 -initializing...
+2018-11-29 15:37:21 -初始化开始。。。。。
+2018-11-29 15:37:21 -no modules loaded
+2018-11-29 15:37:21 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 15:37:21 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 15:37:21 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 15:37:21 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 15:37:21 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 15:37:25 -init param start ...
+2018-11-29 15:37:25 -init param end ...
+2018-11-29 15:37:50 -Detected dialect: OSS
+2018-11-29 15:38:12 -Detected dialect: OSS
+2018-11-29 15:40:18 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 07:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:40:18, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.mp4]
+2018-11-29 15:40:56 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-28 13:03, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:40:56, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.mp4]
+2018-11-29 15:41:32 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-27 22:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:41:32, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.mp4]
+2018-11-29 15:42:13 -NewsInfoBean [id=a7720296ef19278236a63a08f6c786c7, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]战胜法国捧杯 克罗地亚网球队成国民英雄, title_imgs=[https://static.59isport.com/news/20181129/664fada169d7d0f33aa87c512e9ff5bf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEkaPzuNZ8RW3XYQIccy5Y181127.shtml, pub_date=2018-11-27 22:45, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:42:13, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/dc1d2326eb6259da45c1f47a1039aeef.mp4]
+2018-11-29 15:42:47 -NewsInfoBean [id=841bcca07e5335867b73df85407e9e12, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]2018ATP年终总排名揭晓 小德位列第一, title_imgs=[https://static.59isport.com/news/20181129/f4df9f34e26ad252ea71afde2ad0dd83_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEa7R2TAifDSBcvsVLN6xy181127.shtml, pub_date=2018-11-27 13:01, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:42:47, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/38798423399710cc32e81a0d96591c9b.mp4]
+2018-11-29 15:45:06 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:45:06 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:45:06 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 15:45:06 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 15:45:13 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 15:45:13 -Opened connection [connectionId{localValue:1, serverValue:6889}] to dev.59isport.com:27017
+2018-11-29 15:45:13 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16567400}
+2018-11-29 15:45:14 -Opened connection [connectionId{localValue:2, serverValue:6890}] to dev.59isport.com:27017
+2018-11-29 15:45:14 -initializing...
+2018-11-29 15:45:15 -初始化开始。。。。。
+2018-11-29 15:45:15 -no modules loaded
+2018-11-29 15:45:15 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 15:45:15 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 15:45:15 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 15:45:15 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 15:45:15 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 15:45:25 -init param start ...
+2018-11-29 15:45:25 -init param end ...
+2018-11-29 15:45:36 -Detected dialect: OSS
+2018-11-29 15:45:58 -Detected dialect: OSS
+2018-11-29 15:47:50 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 07:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 15:47:50, dispose_state=1, redio_url= http://asp.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/efb8b712da9b44fc9df166cf650d9093/3.ts]
+2018-11-29 15:57:58 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:57:59 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 15:57:59 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 15:57:59 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 15:58:05 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 15:58:05 -Opened connection [connectionId{localValue:1, serverValue:6895}] to dev.59isport.com:27017
+2018-11-29 15:58:05 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16976500}
+2018-11-29 15:58:06 -Opened connection [connectionId{localValue:2, serverValue:6896}] to dev.59isport.com:27017
+2018-11-29 15:58:06 -initializing...
+2018-11-29 15:58:06 -初始化开始。。。。。
+2018-11-29 15:58:07 -no modules loaded
+2018-11-29 15:58:07 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 15:58:07 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 15:58:07 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 15:58:07 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 15:58:07 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 15:58:12 -init param start ...
+2018-11-29 15:58:12 -init param end ...
+2018-11-29 15:58:33 -Detected dialect: OSS
+2018-11-29 15:58:55 -Detected dialect: OSS
+2018-11-29 16:00:53 -NewsInfoBean [id=15a6830edc968a026249cc444d098b00, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]张择、段莹莹分获中国网球大奖赛男女冠军, title_imgs=[https://static.59isport.com/news/20181129/bfdbecc7f7172217b7a626f487b69449_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/29/VIDE1b2l1WQPqSoAjkrfboSm181129.shtml, pub_date=2018-11-29 07:49, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:00:53, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/be4b52ed8fe59c9f226111f8a1089f79.mp4]
+2018-11-29 16:01:31 -NewsInfoBean [id=a17acf3e8f6867a9479aa632bd1ab9bc, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]118年戴维斯杯将迎来重大赛制改革, title_imgs=[https://static.59isport.com/news/20181129/9a5e4ceabff6344681489071d5e2217e_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/28/VIDEast9rl2O25BQ7fRRuMvs181128.shtml, pub_date=2018-11-28 13:03, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:01:31, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/863e70076d9c358e6c8186e061fa2635.mp4]
+2018-11-29 16:02:08 -NewsInfoBean [id=4d77c65cdaacb5f02a12f1160849d992, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]改革受阻 竞争激烈 戴维斯杯前路几何？, title_imgs=[https://static.59isport.com/news/20181129/c2989b0dad77f3129465359c4c50cfcf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEeegSOUIcslD1ETAjDSXi181127.shtml, pub_date=2018-11-27 22:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:02:08, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c5dfc8be212569c3618641211f8ea439.mp4]
+2018-11-29 16:02:45 -NewsInfoBean [id=a7720296ef19278236a63a08f6c786c7, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]战胜法国捧杯 克罗地亚网球队成国民英雄, title_imgs=[https://static.59isport.com/news/20181129/664fada169d7d0f33aa87c512e9ff5bf_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEkaPzuNZ8RW3XYQIccy5Y181127.shtml, pub_date=2018-11-27 22:45, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:02:45, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/dc1d2326eb6259da45c1f47a1039aeef.mp4]
+2018-11-29 16:03:20 -NewsInfoBean [id=841bcca07e5335867b73df85407e9e12, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]2018ATP年终总排名揭晓 小德位列第一, title_imgs=[https://static.59isport.com/news/20181129/f4df9f34e26ad252ea71afde2ad0dd83_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/27/VIDEa7R2TAifDSBcvsVLN6xy181127.shtml, pub_date=2018-11-27 13:01, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:03:20, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/38798423399710cc32e81a0d96591c9b.mp4]
+2018-11-29 16:04:47 -NewsInfoBean [id=af448292297bb8bae07f41bd57f6b68c, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=捧起戴维斯杯 格子军团终圆冠军梦, title_imgs=[https://static.59isport.com/news/20181129/3f0eb7c084c0c953f51cbbb37e4ceff2_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/26/VIDEprwGnDwGmjftZKZzHYxO181126.shtml, pub_date=2018-11-26 13:42, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:04:47, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/0b86163541e9dc1fdaeb223b156b9f5b.mp4]
+2018-11-29 16:04:48 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 16:04:48 -Kafka version : 1.0.1
+2018-11-29 16:04:48 -Kafka commitId : c0518aa65f25317e
+2018-11-29 16:04:48 -mongo,kafka 成功
+2018-11-29 16:05:34 -NewsInfoBean [id=4a1d39e24bdb79a4c60e0fd51bccdb56, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]捧起戴维斯杯 格子军团终圆冠军梦, title_imgs=[https://static.59isport.com/news/20181129/193ddf795b8ff7ef7e0d3c9f8b668b3b_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/26/VIDEPAdXrmXP0Kfc3RNUIw4V181126.shtml, pub_date=2018-11-26 12:33, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:05:34, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/897360901a826b9e0f0fe79bc07bf57f.mp4]
+2018-11-29 16:06:10 -NewsInfoBean [id=e15e2931339bb27f469ee98f1a862e71, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]戴维斯杯决赛 卫冕冠军法国队扳回一分, title_imgs=[https://static.59isport.com/news/20181129/eb279de5eaf2d9c1b3eb2d52072450b1_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/25/VIDED6Ws59zcvd5pkce8gFx8181125.shtml, pub_date=2018-11-25 12:31, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:06:10, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/389c9709bfdb1ab282717ed6056a0ca2.mp4]
+2018-11-29 16:06:10 -mongo,kafka 成功
+2018-11-29 16:06:45 -NewsInfoBean [id=4bb48cafc0d6bc8df3e7a3336f135cb1, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]冰球运动员与网球运动员互动交流, title_imgs=[https://static.59isport.com/news/20181129/da20b6b19288dc2ac1777ca2fff76925_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/24/VIDEtqRQX4oo6wDIuOfaoFu5181124.shtml, pub_date=2018-11-24 08:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 16:06:45, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/0f21c345b059985ede60838572edbc37.mp4]
+2018-11-29 16:06:45 -mongo,kafka 成功
+2018-11-29 18:13:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:13:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:13:41 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:13:41 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:17:21 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:17:22 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:17:22 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:17:22 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:19:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:19:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:19:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:19:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:22:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:22:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:22:00 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:22:00 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:23:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:23:19 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:23:19 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:23:19 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:23:26 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 18:23:26 -Opened connection [connectionId{localValue:1, serverValue:6945}] to dev.59isport.com:27017
+2018-11-29 18:23:26 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18248000}
+2018-11-29 18:23:27 -Opened connection [connectionId{localValue:2, serverValue:6946}] to dev.59isport.com:27017
+2018-11-29 18:23:27 -initializing...
+2018-11-29 18:23:28 -初始化开始。。。。。
+2018-11-29 18:23:29 -no modules loaded
+2018-11-29 18:23:29 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 18:23:29 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 18:23:29 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 18:23:29 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 18:23:29 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 18:23:34 -init param start ...
+2018-11-29 18:23:34 -init param end ...
+2018-11-29 18:24:23 -Detected dialect: OSS
+2018-11-29 18:25:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:25:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:25:31 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:25:31 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:25:35 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 18:25:35 -Opened connection [connectionId{localValue:1, serverValue:6947}] to dev.59isport.com:27017
+2018-11-29 18:25:35 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=17458600}
+2018-11-29 18:25:35 -Opened connection [connectionId{localValue:2, serverValue:6948}] to dev.59isport.com:27017
+2018-11-29 18:25:35 -initializing...
+2018-11-29 18:25:36 -初始化开始。。。。。
+2018-11-29 18:25:37 -no modules loaded
+2018-11-29 18:25:37 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 18:25:37 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 18:25:37 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 18:25:37 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 18:25:37 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 18:25:41 -init param start ...
+2018-11-29 18:25:41 -init param end ...
+2018-11-29 18:26:00 -Detected dialect: OSS
+2018-11-29 18:26:41 -Detected dialect: OSS
+2018-11-29 18:27:01 -Starting without optional epoll library
+2018-11-29 18:27:01 -Starting without optional kqueue library
+2018-11-29 18:28:55 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:28:55, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:28:55, dispose_state=2, redio_url= null]
+2018-11-29 18:29:33 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:29:33, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:29:33, dispose_state=2, redio_url= null]
+2018-11-29 18:30:11 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:30:11, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:30:11, dispose_state=2, redio_url= null]
+2018-11-29 18:30:47 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:30:47, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:30:47, dispose_state=2, redio_url= null]
+2018-11-29 18:31:21 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:31:21, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:31:21, dispose_state=2, redio_url= null]
+2018-11-29 18:31:58 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:31:58, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:31:58, dispose_state=2, redio_url= null]
+2018-11-29 18:32:33 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:32:33, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:32:33, dispose_state=2, redio_url= null]
+2018-11-29 18:33:08 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:33:08, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:33:08, dispose_state=2, redio_url= null]
+2018-11-29 18:33:43 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:33:43, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:33:43, dispose_state=2, redio_url= null]
+2018-11-29 18:34:15 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:34:15, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:34:15, dispose_state=2, redio_url= null]
+2018-11-29 18:35:28 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:35:28, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:35:28, dispose_state=2, redio_url= null]
+2018-11-29 18:36:40 -NewsInfoBean [id=f9f630192e4dda2053dc0b4b2efedfc0, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛决赛：小德VS兹维列夫 2, title_imgs=[https://static.59isport.com/news/20181129/f52a2ba05229ae474dc8ee1f9fedadb2_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/19/VIDEOTnw0DGTmu6UnblkGIks181119.shtml, pub_date=2018-11-19 06:56, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:36:40, dispose_state=2, redio_url= null]
+2018-11-29 18:37:51 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:37:51, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:37:51, dispose_state=2, redio_url= null]
+2018-11-29 18:38:39 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:38:39, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:38:39, dispose_state=2, redio_url= null]
+2018-11-29 18:39:19 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:39:19, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:39:19, dispose_state=2, redio_url= null]
+2018-11-29 18:40:31 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:40:31, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:40:31, dispose_state=2, redio_url= null]
+2018-11-29 18:41:43 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:41:43, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:41:43, dispose_state=2, redio_url= null]
+2018-11-29 18:42:21 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:42:21, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:42:21, dispose_state=2, redio_url= null]
+2018-11-29 18:43:32 -NewsInfoBean [id=052b055ad0f71d66820304ee12ffa251, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛：兹维列夫VS伊斯内尔 2, title_imgs=[https://static.59isport.com/news/20181129/4c12ae1d6edafac7917f3d08b5bb48a6_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/16/VIDEaSpd3I4cIqXTBzUfqbNl181116.shtml, pub_date=2018-11-16 23:56, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:43:32, dispose_state=2, redio_url= null]
+2018-11-29 18:44:11 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:44:11, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:44:11, dispose_state=2, redio_url= null]
+2018-11-29 18:44:59 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:44:59, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:44:59, dispose_state=2, redio_url= null]
+2018-11-29 18:46:10 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:46:10, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:46:10, dispose_state=2, redio_url= null]
+2018-11-29 18:46:46 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:46:46, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:46:46, dispose_state=2, redio_url= null]
+2018-11-29 18:47:22 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:47:22, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:47:22, dispose_state=2, redio_url= null]
+2018-11-29 18:48:08 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:48:08, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:48:08, dispose_state=2, redio_url= null]
+2018-11-29 18:49:20 -NewsInfoBean [id=1b34e76cf4f3808571d98963d098de33, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛小组赛：小德VS兹维列夫, title_imgs=[https://static.59isport.com/news/20181129/84e91260e2c71759d7e9ebd23ed3fcf5_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/14/VIDEpFihRwadoLJcqwP4KypN181114.shtml, pub_date=2018-11-14 23:48, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:49:20, dispose_state=2, redio_url= null]
+2018-11-29 18:50:31 -NewsInfoBean [id=b56cc2156c557e2e15336c776d964583, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛：费德勒VS蒂姆, title_imgs=[https://static.59isport.com/news/20181129/79724f6444d01e2b4ef7d594bcadc2d6_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/14/VIDEynmFW2aBNGWRQG8QZ2wn181114.shtml, pub_date=2018-11-14 21:00, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:50:31, dispose_state=2, redio_url= null]
+2018-11-29 18:51:08 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:51:08, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:51:08, dispose_state=2, redio_url= null]
+2018-11-29 18:52:21 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:52:21, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:52:21, dispose_state=2, redio_url= null]
+2018-11-29 18:53:06 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:53:06, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:53:06, dispose_state=2, redio_url= null]
+2018-11-29 18:54:18 -NewsInfoBean [id=e63e6309205b8194ca42e6da6ae93575, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛：安德森VS锦织圭, title_imgs=[https://static.59isport.com/news/20181129/2af90666dd5ef326e33d36cc3cd39fdc_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/14/VIDEj5HAVEMuBXRWjCzP5u31181114.shtml, pub_date=2018-11-14 00:11, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:54:18, dispose_state=2, redio_url= null]
+2018-11-29 18:55:02 -NewsInfoBean [id=null, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=null, title_imgs=[], content=, index_url=http://sports.cctv.com/tennis/videos/, url=null, pub_date=2018-11-29 18:55:02, author=null, author_img=null, key_word=null, remark=null, create_date=2018-11-29 18:55:02, dispose_state=2, redio_url= null]
+2018-11-29 18:56:14 -NewsInfoBean [id=acc709bc415b36dcfa0aa2a242c87518, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛：德约科维奇VS伊斯内尔, title_imgs=[https://static.59isport.com/news/20181129/1ae86a092a83e092cac4647074687bdf_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/13/VIDEeKYNFPQNuH6nQsYWjNZW181113.shtml, pub_date=2018-11-13 23:18, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 18:56:14, dispose_state=2, redio_url= null]
+2018-11-29 18:57:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:57:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 18:57:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 18:57:28 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 18:57:36 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 18:57:38 -Opened connection [connectionId{localValue:1, serverValue:6949}] to dev.59isport.com:27017
+2018-11-29 18:57:38 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16843700}
+2018-11-29 18:57:39 -Opened connection [connectionId{localValue:2, serverValue:6950}] to dev.59isport.com:27017
+2018-11-29 18:57:39 -initializing...
+2018-11-29 18:57:40 -初始化开始。。。。。
+2018-11-29 18:57:41 -no modules loaded
+2018-11-29 18:57:41 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 18:57:41 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 18:57:41 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 18:57:41 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 18:57:41 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 18:57:47 -init param start ...
+2018-11-29 18:57:47 -init param end ...
+2018-11-29 18:58:05 -Detected dialect: OSS
+2018-11-29 19:01:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:01:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:01:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 19:01:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 19:02:06 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:02:06 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:02:06 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 19:02:06 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 19:02:11 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 19:02:12 -Opened connection [connectionId{localValue:1, serverValue:6951}] to dev.59isport.com:27017
+2018-11-29 19:02:12 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18778700}
+2018-11-29 19:02:13 -Opened connection [connectionId{localValue:2, serverValue:6952}] to dev.59isport.com:27017
+2018-11-29 19:02:14 -initializing...
+2018-11-29 19:02:16 -初始化开始。。。。。
+2018-11-29 19:02:19 -no modules loaded
+2018-11-29 19:02:19 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 19:02:19 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 19:02:19 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 19:02:19 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 19:02:19 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 19:02:40 -init param start ...
+2018-11-29 19:02:40 -init param end ...
+2018-11-29 19:03:22 -Detected dialect: OSS
+2018-11-29 19:03:51 -Detected dialect: OSS
+2018-11-29 19:04:11 -Starting without optional epoll library
+2018-11-29 19:04:11 -Starting without optional kqueue library
+2018-11-29 19:05:46 -NewsInfoBean [id=62bcce043712fb4a59ab7d4187c005af, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]冲破“ACE雨” 德约科维奇取得小组赛首胜, title_imgs=[https://static.59isport.com/news/20181129/a729625c5cf82b2531da4e31a2a9faa6_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/13/VIDEHfStm0tfLetMFqDaA1lW181113.shtml, pub_date=2018-11-13 09:06, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:05:46, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/63fb696267e2fc648fd84124207e5700.mp4]
+2018-11-29 19:05:46 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 19:05:47 -Kafka version : 1.0.1
+2018-11-29 19:05:47 -Kafka commitId : c0518aa65f25317e
+2018-11-29 19:05:47 -mongo,kafka 成功
+2018-11-29 19:06:41 -NewsInfoBean [id=f0469387fb448e1aa3834c49f9825e93, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]双抢七险胜西里奇 小兹维列夫取得开门红, title_imgs=[https://static.59isport.com/news/20181129/64e4f1c1bc25961becdf92d2f70713e7_160x121.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/13/VIDES2H9kqRQm7SAEyMni3YN181113.shtml, pub_date=2018-11-13 09:04, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:06:41, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/36023e0346ba89731fd00bb9554c27bc.mp4]
+2018-11-29 19:06:41 -mongo,kafka 成功
+2018-11-29 19:07:18 -NewsInfoBean [id=6045db9f16f805d44ed63ba763c06a2a, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]约洛维奇深圳龙华国际网球公开赛夺冠, title_imgs=[https://static.59isport.com/news/20181129/e4a0a63b261c1e4d3e657b3ae8e439a5_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/13/VIDEpZuPAtx5xjaOSRyuYEOL181113.shtml, pub_date=2018-11-13 08:44, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:07:18, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/3baaef2400ba2c166fae587887ba4132.mp4]
+2018-11-29 19:07:18 -mongo,kafka 成功
+2018-11-29 19:08:31 -NewsInfoBean [id=5a7c4b3ebb2e48b521bf611e544b9143, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛小组赛：兹维列夫VS西里奇, title_imgs=[https://static.59isport.com/news/20181129/24c9ba75e7700c64f5921f2c4a838f9d_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/13/VIDEyzUz6EYZfXWTuS8GQ7Kq181113.shtml, pub_date=2018-11-13 00:55, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:08:31, dispose_state=2, redio_url= null]
+2018-11-29 19:09:11 -NewsInfoBean [id=35a6dd174f38f7a000709a9698861019, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]德约科维奇领取2018年终世界第一奖杯, title_imgs=[https://static.59isport.com/news/20181129/43150066d5e97bdf39f1ddfe3176b2c1_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/12/VIDE35y5C76HciGKPjkH8siX181112.shtml, pub_date=2018-11-12 23:24, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:09:11, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/c103c314aa6741e42641b0ebbc463aec.mp4]
+2018-11-29 19:09:11 -mongo,kafka 成功
+2018-11-29 19:10:24 -NewsInfoBean [id=28f2389ead23380fbd42033f2cde2292, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛小组赛：费德勒VS锦织圭 2, title_imgs=[https://static.59isport.com/news/20181129/a7d92301d9b4a4f4973570e87a289a23_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/12/VIDEOgbStFzrlzWvm3Kfc3q4181112.shtml, pub_date=2018-11-12 20:42, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:10:24, dispose_state=2, redio_url= null]
+2018-11-29 19:11:36 -NewsInfoBean [id=72577e480eaa8799d70dafee35907614, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛小组赛：费德勒VS锦织圭 1, title_imgs=[https://static.59isport.com/news/20181129/e35163eec46de52926067e817cbad8ad_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/12/VIDEbo1ClRVM22WFafBVaJNt181112.shtml, pub_date=2018-11-12 20:37, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:11:36, dispose_state=2, redio_url= null]
+2018-11-29 19:12:16 -NewsInfoBean [id=bcb430361c7d8d129091849c6b374ccc, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]锦织圭击败费德勒 安德森为妻子生日献歌, title_imgs=[https://static.59isport.com/news/20181129/2b2ee34fb56ba612b6817cb9810ae47c_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/12/VIDEOqffBhgbItqygj2qudaD181112.shtml, pub_date=2018-11-12 12:42, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:12:16, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/91798460aabc755b69ac8dc762e9e6c9.mp4]
+2018-11-29 19:12:16 -mongo,kafka 成功
+2018-11-29 19:13:36 -NewsInfoBean [id=d8898d4399c6513232ac5e39d30664f6, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP年终总决赛男单小组赛：安德森VS蒂姆, title_imgs=[https://static.59isport.com/news/20181129/c7c87a6a89f4cf26f7d691453da1d26c_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/12/VIDEtgiJGNL8goWYWfTwvoC9181112.shtml, pub_date=2018-11-12 00:46, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:13:36, dispose_state=2, redio_url= null]
+2018-11-29 19:14:48 -NewsInfoBean [id=30f9f3f9adeb76cd9a857786e0f73bcc, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]2018年ATP周刊：第36期, title_imgs=[https://static.59isport.com/news/20181129/c69ccd79ed08bc46f0f159b9d3c161ae_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/10/VIDEBFHGhp5NEd9BuX9MTNwy181110.shtml, pub_date=2018-11-10 09:51, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:14:48, dispose_state=2, redio_url= null]
+2018-11-29 19:15:30 -NewsInfoBean [id=4fafe5590caa9d1b7303016991ff2e0f, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]纳达尔退出年终总决赛 小德锁定第一, title_imgs=[https://static.59isport.com/news/20181129/7bfe7ca8e07176b0a41c5e2f800697f7_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/06/VIDEbfYACP1z1ORXYqC0HPIE181106.shtml, pub_date=2018-11-06 13:04, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:15:30, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/042d96c17567c666888fcc638e1b4cea.mp4]
+2018-11-29 19:15:30 -mongo,kafka 成功
+2018-11-29 19:16:09 -NewsInfoBean [id=460e498e64ccf97dfee71b16f5ef504f, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]巴黎网球大师赛 卡恰诺夫首夺大师赛冠军, title_imgs=[https://static.59isport.com/news/20181129/b09f3b08928892894bf56b58fb81929d_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/05/VIDEtdhPLcQfpMkDSLYqesZs181105.shtml, pub_date=2018-11-05 09:08, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:16:09, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/98643127a70a0f5d36a0d20b6eaa65a6.mp4]
+2018-11-29 19:16:09 -mongo,kafka 成功
+2018-11-29 19:23:58 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:23:58 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:23:58 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 19:23:58 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 19:24:12 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 19:24:12 -Opened connection [connectionId{localValue:1, serverValue:6953}] to dev.59isport.com:27017
+2018-11-29 19:24:12 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16414700}
+2018-11-29 19:24:12 -Opened connection [connectionId{localValue:2, serverValue:6954}] to dev.59isport.com:27017
+2018-11-29 19:24:13 -initializing...
+2018-11-29 19:24:13 -初始化开始。。。。。
+2018-11-29 19:24:14 -no modules loaded
+2018-11-29 19:24:14 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 19:24:14 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 19:24:14 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 19:24:14 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 19:24:14 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 19:24:19 -init param start ...
+2018-11-29 19:24:19 -init param end ...
+2018-11-29 19:25:12 -Detected dialect: OSS
+2018-11-29 19:25:39 -Detected dialect: OSS
+2018-11-29 19:26:07 -Starting without optional epoll library
+2018-11-29 19:26:07 -Starting without optional kqueue library
+2018-11-29 19:27:09 -NewsInfoBean [id=69fbf11f14c44f27935d21bf766cf8fd, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=林丹：宁可在竞争中被淘汰，也不希望默默离去, title_imgs=[https://static.59isport.com/news/20181129/64656f292004e1f2cdc0b1ca0b9949c0_300x169.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/v5cd616aa1bc.html, pub_date=2018-11-29 19:27:09, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-29 19:27:09, dispose_state=2, redio_url= null]
+2018-11-29 19:28:45 -NewsInfoBean [id=e7cda85de5b3d011dbfa56fdbdb582af, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=【低视角】感受下苏卡穆约/费尔纳迪的超快速度, title_imgs=[https://static.59isport.com/news/20181129/14fe222e36a8481b0b72708dbbe60d49_300x169.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/vf16e8b7736b.html, pub_date=2018-11-29 19:28:45, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-29 19:28:45, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/1b009f03f2f7f9671df43568dfbfa4f2.mp4]
+2018-11-29 19:28:47 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 19:28:47 -Kafka version : 1.0.1
+2018-11-29 19:28:47 -Kafka commitId : c0518aa65f25317e
+2018-11-29 19:28:48 -mongo,kafka 成功
+2018-11-29 19:30:26 -NewsInfoBean [id=0d72f819bc69cdb773f3f63452606328, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=【低视角】2018澳门公开赛，李炫一vs周泽奇, title_imgs=[https://static.59isport.com/news/20181129/3bf88c900f6081c336a1f83663a4f44a_300x169.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/v01673565210.html, pub_date=2018-11-29 19:30:26, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-29 19:30:26, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/f6fdb4ec191481d135bb26a5b23b4c89.mp4]
+2018-11-29 19:30:26 -mongo,kafka 成功
+2018-11-29 19:31:23 -NewsInfoBean [id=7d759fed4aedc3cedf40a7c53ff4d114, source=爱羽客, source_icon=http://www.aiyuke.com/favicon.ico, title=林丹对阵谌龙，李永波任裁判，这又是什么同框？, title_imgs=[https://static.59isport.com/news/20181129/fc195861efa7c852c6e9e7662cbfa028_300x169.jpg], content=, index_url=http://www.aiyuke.com/video_list/2------------.html, url=http://www.aiyuke.com/video_play/va9d92c1e3a2.html, pub_date=2018-11-29 19:31:23, author=null, author_img=null, key_word=乒羽 视频, remark=null, create_date=2018-11-29 19:31:23, dispose_state=2, redio_url= null]
+2018-11-29 19:45:44 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:45:45 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 19:45:45 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 19:45:45 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 19:45:52 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 19:45:53 -Opened connection [connectionId{localValue:1, serverValue:6959}] to dev.59isport.com:27017
+2018-11-29 19:45:53 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=38264200}
+2018-11-29 19:45:53 -Opened connection [connectionId{localValue:2, serverValue:6960}] to dev.59isport.com:27017
+2018-11-29 19:45:53 -initializing...
+2018-11-29 19:45:54 -初始化开始。。。。。
+2018-11-29 19:45:55 -no modules loaded
+2018-11-29 19:45:55 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 19:45:55 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 19:45:55 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 19:45:55 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 19:45:55 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 19:45:59 -init param start ...
+2018-11-29 19:45:59 -init param end ...
+2018-11-29 19:46:28 -Detected dialect: OSS
+2018-11-29 19:47:01 -Detected dialect: OSS
+2018-11-29 19:47:24 -Starting without optional epoll library
+2018-11-29 19:47:24 -Starting without optional kqueue library
+2018-11-29 19:48:58 -NewsInfoBean [id=3d6a942b69623fe3216c72c5a83f2e7a, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]王雅繁蝉联柳州网球公开赛女单冠军, title_imgs=[https://static.59isport.com/news/20181129/94072ad88a7e4971eec8171d3493ddb8_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/05/VIDEgDcCukNzFLL5Uvd94FMk181105.shtml, pub_date=2018-11-05 07:30, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:48:58, dispose_state=2, redio_url= null]
+2018-11-29 19:50:13 -NewsInfoBean [id=9d59a4485df3b50834128eb833af4860, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]巴黎大师赛决赛：卡恰诺夫VS小德 第二盘, title_imgs=[https://static.59isport.com/news/20181129/85d1faf1429dbf4158eb0718b4a1e57d_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/05/VIDE72k8ExhUoocp17ZbMj8R181105.shtml, pub_date=2018-11-05 00:12, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:50:13, dispose_state=2, redio_url= null]
+2018-11-29 19:51:25 -NewsInfoBean [id=bfc76dc9a210b805e3605c4f9c461c16, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]巴黎大师赛决赛：卡恰诺夫VS小德 第一盘, title_imgs=[https://static.59isport.com/news/20181129/c35249f3e7ffc49fc42854d436616364_504x284.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/04/VIDEwBfvhQlfy3j8atPLZR4z181104.shtml, pub_date=2018-11-04 23:26, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 19:51:25, dispose_state=2, redio_url= null]
+2018-11-29 20:04:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 20:04:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 20:04:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 20:04:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 20:04:16 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 20:04:16 -Opened connection [connectionId{localValue:1, serverValue:6961}] to dev.59isport.com:27017
+2018-11-29 20:04:16 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9630600}
+2018-11-29 20:04:17 -Opened connection [connectionId{localValue:2, serverValue:6962}] to dev.59isport.com:27017
+2018-11-29 20:04:17 -initializing...
+2018-11-29 20:04:18 -初始化开始。。。。。
+2018-11-29 20:04:18 -no modules loaded
+2018-11-29 20:04:18 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 20:04:18 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 20:04:18 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 20:04:18 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 20:04:18 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 20:04:23 -init param start ...
+2018-11-29 20:04:23 -init param end ...
+2018-11-29 20:05:03 -Detected dialect: OSS
+2018-11-29 20:05:40 -Detected dialect: OSS
+2018-11-29 20:05:58 -Starting without optional epoll library
+2018-11-29 20:05:58 -Starting without optional kqueue library
+2018-11-29 20:10:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 20:10:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-29 20:10:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-29 20:10:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-29 20:10:32 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-29 20:10:33 -Opened connection [connectionId{localValue:1, serverValue:6963}] to dev.59isport.com:27017
+2018-11-29 20:10:33 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13556200}
+2018-11-29 20:10:33 -Opened connection [connectionId{localValue:2, serverValue:6964}] to dev.59isport.com:27017
+2018-11-29 20:10:34 -initializing...
+2018-11-29 20:10:34 -初始化开始。。。。。
+2018-11-29 20:10:35 -no modules loaded
+2018-11-29 20:10:35 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-29 20:10:35 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-29 20:10:35 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-29 20:10:35 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-29 20:10:35 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-29 20:10:40 -init param start ...
+2018-11-29 20:10:40 -init param end ...
+2018-11-29 20:10:56 -Detected dialect: OSS
+2018-11-29 20:11:35 -Detected dialect: OSS
+2018-11-29 20:11:52 -Starting without optional epoll library
+2018-11-29 20:11:52 -Starting without optional kqueue library
+2018-11-29 20:13:32 -NewsInfoBean [id=603dcfc61e56f965f55e2ad99f831726, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]2018年ATP周刊 第35期, title_imgs=[https://static.59isport.com/news/20181129/f0c2dc0d20601b3a07201a260579287c_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/03/VIDErFwnNKHpYCAUHs9E0uji181103.shtml, pub_date=2018-11-03 15:48, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:13:32, dispose_state=2, redio_url= null]
+2018-11-29 20:14:44 -NewsInfoBean [id=f5b79037370ba75ad7d47eabef60ca87, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP巴黎站1/4决赛：西里奇VS德约科维奇, title_imgs=[https://static.59isport.com/news/20181129/3914c6ac9bf61733451ba0b764067c66_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/03/VIDE3uXJzmfO37fw772N6RZE181103.shtml, pub_date=2018-11-03 10:48, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:14:44, dispose_state=2, redio_url= null]
+2018-11-29 20:15:59 -NewsInfoBean [id=030b93f710c4be86365e3b0884c9d4f0, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP巴黎大师赛：索克VS蒂姆 第三盘, title_imgs=[https://static.59isport.com/news/20181129/a786a76372c93c2fe291b5ce067232f3_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/03/VIDEhfrzPAkKaueWpEnhQ0xT181103.shtml, pub_date=2018-11-03 06:23, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:15:59, dispose_state=2, redio_url= null]
+2018-11-29 20:17:17 -NewsInfoBean [id=9afb5eeb1f5a13d03924f21c5abd108a, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP巴黎大师赛：索克VS蒂姆 第二盘, title_imgs=[https://static.59isport.com/news/20181129/be41648318e29c10d4693e821f0f8742_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/03/VIDENcwNgho7HOy0PKmoKlYB181103.shtml, pub_date=2018-11-03 00:24, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:17:17, dispose_state=2, redio_url= null]
+2018-11-29 20:18:29 -NewsInfoBean [id=63af826f02cd5b8496dbd5dc5731f3e9, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]ATP巴黎大师赛：索克VS蒂姆 第一盘, title_imgs=[https://static.59isport.com/news/20181129/5b9622977f4d562143d731452d3e8ea2_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://sports.cctv.com/2018/11/02/VIDE9kbj3OmgSvXfEfDLivhj181102.shtml, pub_date=2018-11-02 23:50, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:18:29, dispose_state=2, redio_url= null]
+2018-11-29 20:20:30 -NewsInfoBean [id=6e1fb781d1224b66de6052a793b57cd2, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]中国女双小花 珠海精英赛首轮告负, title_imgs=[https://static.59isport.com/news/20181129/4b568d2a4c474d5137082076be4467e1_213x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/02/VIDEIGyJNJUesEycGM3SlH2e181102.shtml, pub_date=2018-11-02 18:40, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:20:30, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/ba070f56cbf977ed090ab07e7368a648_12695771.mp4]
+2018-11-29 20:20:31 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-29 20:20:32 -Kafka version : 1.0.1
+2018-11-29 20:20:32 -Kafka commitId : c0518aa65f25317e
+2018-11-29 20:20:33 -mongo,kafka 成功
+2018-11-29 20:21:54 -NewsInfoBean [id=062511a7c7f6084c4fb8cb1a04282454, source=央视网, source_icon=http://sports.cctv.com/favicon.ico, title=[网球]费德勒向职业生涯100冠发起冲击, title_imgs=[https://static.59isport.com/news/20181129/54a19507dbdbe72d25be0a602e565e1a_160x120.jpg], content=, index_url=http://sports.cctv.com/tennis/videos/, url=http://tv.cctv.com/2018/11/02/VIDEbB4ld9fD0Q7nPzltBTd4181102.shtml, pub_date=2018-11-02 12:10, author=null, author_img=null, key_word=网球 视频, remark=null, create_date=2018-11-29 20:21:54, dispose_state=1, redio_url= https://static.59isport.com/video/20181129/dd6e4aafb5cd72037dc9efbb823ddd51_6632889.mp4]
+2018-11-29 20:21:54 -mongo,kafka 成功

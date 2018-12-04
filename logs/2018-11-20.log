@@ -1,0 +1,347 @@
+2018-11-20 18:06:02 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:06:03 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:06:03 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:06:03 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:06:06 -initializing...
+2018-11-20 18:06:08 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:06:08 -Opened connection [connectionId{localValue:1, serverValue:5602}] to dev.59isport.com:27017
+2018-11-20 18:06:08 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=20184000}
+2018-11-20 18:06:08 -Opened connection [connectionId{localValue:2, serverValue:5603}] to dev.59isport.com:27017
+2018-11-20 18:06:09 -初始化开始。。。。。
+2018-11-20 18:06:10 -no modules loaded
+2018-11-20 18:06:10 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:06:10 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:06:10 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:06:10 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:06:10 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:06:14 -init param start ...
+2018-11-20 18:06:14 -init param end ...
+2018-11-20 18:06:18 -Redisson 3.8.0
+2018-11-20 18:06:19 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:06:19 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:06:20 -Reflections took 122 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:06:22 -Reflections took 37 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:08:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:08:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:08:43 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:08:43 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:08:45 -initializing...
+2018-11-20 18:08:47 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:08:47 -Opened connection [connectionId{localValue:1, serverValue:5604}] to dev.59isport.com:27017
+2018-11-20 18:08:47 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18015900}
+2018-11-20 18:08:48 -Opened connection [connectionId{localValue:2, serverValue:5605}] to dev.59isport.com:27017
+2018-11-20 18:08:48 -初始化开始。。。。。
+2018-11-20 18:08:49 -no modules loaded
+2018-11-20 18:08:49 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:08:49 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:08:49 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:08:49 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:08:49 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:08:53 -init param start ...
+2018-11-20 18:08:53 -init param end ...
+2018-11-20 18:08:57 -Redisson 3.8.0
+2018-11-20 18:08:58 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:08:58 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:09:00 -Closed connection [connectionId{localValue:2, serverValue:5605}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-20 18:09:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:09:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:09:53 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:09:53 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:09:54 -initializing...
+2018-11-20 18:09:56 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:09:57 -Opened connection [connectionId{localValue:1, serverValue:5606}] to dev.59isport.com:27017
+2018-11-20 18:09:57 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=12967700}
+2018-11-20 18:09:57 -Opened connection [connectionId{localValue:2, serverValue:5607}] to dev.59isport.com:27017
+2018-11-20 18:09:58 -初始化开始。。。。。
+2018-11-20 18:09:58 -no modules loaded
+2018-11-20 18:09:58 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:09:58 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:09:58 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:09:58 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:09:58 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:10:02 -init param start ...
+2018-11-20 18:10:02 -init param end ...
+2018-11-20 18:10:06 -Redisson 3.8.0
+2018-11-20 18:10:06 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:06 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:06 -Reflections took 236 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:10:08 -Reflections took 30 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:10:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:10:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:10:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:10:17 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:10:18 -initializing...
+2018-11-20 18:10:20 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:10:20 -Opened connection [connectionId{localValue:1, serverValue:5608}] to dev.59isport.com:27017
+2018-11-20 18:10:20 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=12548300}
+2018-11-20 18:10:21 -Opened connection [connectionId{localValue:2, serverValue:5609}] to dev.59isport.com:27017
+2018-11-20 18:10:21 -初始化开始。。。。。
+2018-11-20 18:10:22 -no modules loaded
+2018-11-20 18:10:22 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:10:22 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:10:22 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:10:22 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:10:22 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:10:25 -init param start ...
+2018-11-20 18:10:25 -init param end ...
+2018-11-20 18:10:28 -Redisson 3.8.0
+2018-11-20 18:10:28 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:28 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:30 -Closed connection [connectionId{localValue:2, serverValue:5609}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-20 18:10:31 -Redisson 3.8.0
+2018-11-20 18:10:31 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:31 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:10:32 -HikariPool-1 - Starting...
+2018-11-20 18:10:33 -HikariPool-1 - Start completed.
+2018-11-20 18:10:33 -nextUrl:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html
+2018-11-20 18:11:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:11:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:11:11 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:11:11 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:11:12 -initializing...
+2018-11-20 18:11:14 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:11:14 -Opened connection [connectionId{localValue:1, serverValue:5610}] to dev.59isport.com:27017
+2018-11-20 18:11:14 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10921900}
+2018-11-20 18:11:15 -Opened connection [connectionId{localValue:2, serverValue:5611}] to dev.59isport.com:27017
+2018-11-20 18:11:15 -初始化开始。。。。。
+2018-11-20 18:11:16 -no modules loaded
+2018-11-20 18:11:16 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:11:16 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:11:16 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:11:16 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:11:16 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:11:19 -init param start ...
+2018-11-20 18:11:19 -init param end ...
+2018-11-20 18:11:23 -Redisson 3.8.0
+2018-11-20 18:11:23 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:11:23 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:11:23 -Reflections took 147 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:11:25 -Reflections took 37 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:12:02 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:12:02 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:12:02 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:12:02 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:12:04 -initializing...
+2018-11-20 18:12:05 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:12:05 -Opened connection [connectionId{localValue:1, serverValue:5612}] to dev.59isport.com:27017
+2018-11-20 18:12:05 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11265300}
+2018-11-20 18:12:06 -Opened connection [connectionId{localValue:2, serverValue:5613}] to dev.59isport.com:27017
+2018-11-20 18:12:06 -初始化开始。。。。。
+2018-11-20 18:12:07 -no modules loaded
+2018-11-20 18:12:07 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:12:07 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:12:07 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:12:07 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:12:07 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:12:10 -init param start ...
+2018-11-20 18:12:10 -init param end ...
+2018-11-20 18:12:13 -Redisson 3.8.0
+2018-11-20 18:12:13 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:12:13 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:12:13 -Reflections took 92 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:12:14 -Reflections took 48 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:13:34 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:13:34 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:13:34 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:13:34 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:13:35 -initializing...
+2018-11-20 18:13:37 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:13:37 -Opened connection [connectionId{localValue:1, serverValue:5614}] to dev.59isport.com:27017
+2018-11-20 18:13:37 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9862600}
+2018-11-20 18:13:38 -Opened connection [connectionId{localValue:2, serverValue:5615}] to dev.59isport.com:27017
+2018-11-20 18:13:38 -初始化开始。。。。。
+2018-11-20 18:13:38 -no modules loaded
+2018-11-20 18:13:38 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:13:38 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:13:38 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:13:38 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:13:38 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:13:42 -init param start ...
+2018-11-20 18:13:42 -init param end ...
+2018-11-20 18:13:45 -Redisson 3.8.0
+2018-11-20 18:13:45 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:13:45 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:13:45 -Reflections took 120 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:13:47 -Reflections took 64 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:13:53 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-11-20 18:13:54 -Kafka version : 1.0.1
+2018-11-20 18:13:54 -Kafka commitId : c0518aa65f25317e
+2018-11-20 18:14:20 -parent_url:null,url:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html,解析内容错误:Index: 0, Size: 0
+2018-11-20 18:14:20 -index_url:null,url:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html,com.isport.crawl.iqiyi.IqiyiDetail,详情抽取错误:null
+2018-11-20 18:14:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:14:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:14:54 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:14:54 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:14:55 -initializing...
+2018-11-20 18:14:57 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:14:57 -Opened connection [connectionId{localValue:1, serverValue:5616}] to dev.59isport.com:27017
+2018-11-20 18:14:57 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10315100}
+2018-11-20 18:14:57 -Opened connection [connectionId{localValue:2, serverValue:5617}] to dev.59isport.com:27017
+2018-11-20 18:14:58 -初始化开始。。。。。
+2018-11-20 18:14:59 -no modules loaded
+2018-11-20 18:14:59 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:14:59 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:14:59 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:14:59 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:14:59 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:15:03 -init param start ...
+2018-11-20 18:15:03 -init param end ...
+2018-11-20 18:15:06 -Redisson 3.8.0
+2018-11-20 18:15:06 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:15:06 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:15:07 -Reflections took 167 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:15:08 -Reflections took 37 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:16:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:16:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:16:12 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:16:12 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:16:13 -initializing...
+2018-11-20 18:16:15 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:16:15 -Opened connection [connectionId{localValue:1, serverValue:5618}] to dev.59isport.com:27017
+2018-11-20 18:16:15 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18859200}
+2018-11-20 18:16:16 -Opened connection [connectionId{localValue:2, serverValue:5619}] to dev.59isport.com:27017
+2018-11-20 18:16:16 -初始化开始。。。。。
+2018-11-20 18:16:16 -no modules loaded
+2018-11-20 18:16:16 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:16:16 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:16:16 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:16:16 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:16:16 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:16:22 -init param start ...
+2018-11-20 18:16:22 -init param end ...
+2018-11-20 18:16:27 -Redisson 3.8.0
+2018-11-20 18:16:28 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:16:29 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:16:34 -Closed connection [connectionId{localValue:2, serverValue:5619}] to dev.59isport.com:27017 because the pool has been closed.
+2018-11-20 18:16:36 -Redisson 3.8.0
+2018-11-20 18:16:36 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:16:36 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:16:36 -HikariPool-1 - Starting...
+2018-11-20 18:16:37 -HikariPool-1 - Start completed.
+2018-11-20 18:16:37 -nextUrl:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html
+2018-11-20 18:16:38 -parent_url:null,url:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html,解析内容错误:Index: 0, Size: 0
+2018-11-20 18:16:40 -查重失败: aa4e9fb5e33f537c586093c8a3f7a408
+2018-11-20 18:17:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:17:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:17:36 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:17:36 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:17:38 -initializing...
+2018-11-20 18:17:40 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:17:40 -Opened connection [connectionId{localValue:1, serverValue:5620}] to dev.59isport.com:27017
+2018-11-20 18:17:40 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11616900}
+2018-11-20 18:17:40 -Opened connection [connectionId{localValue:2, serverValue:5621}] to dev.59isport.com:27017
+2018-11-20 18:17:41 -初始化开始。。。。。
+2018-11-20 18:17:42 -no modules loaded
+2018-11-20 18:17:42 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:17:42 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:17:42 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:17:42 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:17:42 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:17:46 -init param start ...
+2018-11-20 18:17:46 -init param end ...
+2018-11-20 18:17:49 -Redisson 3.8.0
+2018-11-20 18:17:49 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:49 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:49 -Redisson 3.8.0
+2018-11-20 18:17:49 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:49 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:50 -Reflections took 121 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:17:51 -Reflections took 38 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:17:52 -Redisson 3.8.0
+2018-11-20 18:17:52 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:52 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:17:52 -HikariPool-1 - Starting...
+2018-11-20 18:17:52 -HikariPool-1 - Start completed.
+2018-11-20 18:17:52 -nextUrl:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html
+2018-11-20 18:17:53 -parent_url:null,url:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html,解析内容错误:Index: 0, Size: 0
+2018-11-20 18:17:53 -查重失败: aa4e9fb5e33f537c586093c8a3f7a408
+2018-11-20 18:21:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:21:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-20 18:21:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-11-20 18:21:25 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-11-20 18:21:26 -initializing...
+2018-11-20 18:21:28 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-11-20 18:21:29 -Opened connection [connectionId{localValue:1, serverValue:5624}] to dev.59isport.com:27017
+2018-11-20 18:21:29 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=24912500}
+2018-11-20 18:21:29 -Opened connection [connectionId{localValue:2, serverValue:5625}] to dev.59isport.com:27017
+2018-11-20 18:21:29 -初始化开始。。。。。
+2018-11-20 18:21:30 -no modules loaded
+2018-11-20 18:21:30 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-11-20 18:21:30 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-11-20 18:21:30 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-11-20 18:21:30 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-11-20 18:21:30 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-11-20 18:21:34 -init param start ...
+2018-11-20 18:21:34 -init param end ...
+2018-11-20 18:21:37 -Redisson 3.8.0
+2018-11-20 18:21:37 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:37 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:38 -Redisson 3.8.0
+2018-11-20 18:21:38 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:38 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:38 -Reflections took 120 ms to scan 4 urls, producing 52 keys and 341 values 
+2018-11-20 18:21:39 -Reflections took 44 ms to scan 2 urls, producing 3 keys and 6 values 
+2018-11-20 18:21:40 -Redisson 3.8.0
+2018-11-20 18:21:40 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:40 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:40 -HikariPool-1 - Starting...
+2018-11-20 18:21:40 -HikariPool-1 - Start completed.
+2018-11-20 18:21:40 -nextUrl:http://www.ssports.com/news/info%E5%88%87%E5%B0%94%E8%A5%BF_2.html
+2018-11-20 18:21:41 -Redisson 3.8.0
+2018-11-20 18:21:41 -1 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:41 -32 connections initialized for dev.59isport.com/47.92.4.249:5268
+2018-11-20 18:21:41 -抓取提前结束，无法抓到更多新的新闻

@@ -1,0 +1,45 @@
+[
+	{
+		"url": "http://sports.sina.com.cn/nba/25.shtml",
+		"custom_param": 
+		{
+			"source_key": "news_sina_nba",
+			"author_id": "21389a5a27054382956055484df6c483",
+			"channel_id": "cbb9bffc02e040328e13a776c26da706",
+			"tag": "篮球 勇士"
+		}
+	},
+
+	{
+		"url": "http://sports.sina.com.cn/nba/5.shtml",
+		"custom_param": 
+		{
+			"source_key": "news_sina_nba",
+			"author_id": "21389a5a27054382956055484df6c483",
+			"channel_id": "cbb9bffc02e040328e13a776c26da706",
+			"tag": "篮球 湖人"
+		}
+	},
+
+	{
+		"url": "http://sports.sina.com.cn/nba/6.shtml",
+		"custom_param": 
+		{
+			"source_key": "news_sina_nba",
+			"author_id": "21389a5a27054382956055484df6c483",
+			"channel_id": "cbb9bffc02e040328e13a776c26da706",
+			"tag": "篮球 诸强"
+		}
+	},
+
+	{
+		"url": "http://sports.sina.com.cn/nba/1.shtml",
+		"custom_param": 
+		{
+			"source_key": "news_sina_nba",
+			"author_id": "21389a5a27054382956055484df6c483",
+			"channel_id": "cbb9bffc02e040328e13a776c26da706",
+			"tag": "篮球  火箭"
+		}
+	}
+]

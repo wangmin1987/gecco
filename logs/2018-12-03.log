@@ -1,0 +1,357 @@
+2018-12-03 11:02:19 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:02:20 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:02:20 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:02:20 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:02:30 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:02:30 -Opened connection [connectionId{localValue:1, serverValue:7291}] to dev.59isport.com:27017
+2018-12-03 11:02:30 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10908700}
+2018-12-03 11:02:31 -Opened connection [connectionId{localValue:2, serverValue:7292}] to dev.59isport.com:27017
+2018-12-03 11:02:31 -initializing...
+2018-12-03 11:02:32 -初始化开始。。。。。
+2018-12-03 11:02:34 -no modules loaded
+2018-12-03 11:02:34 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:02:34 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:02:34 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:02:34 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:02:34 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:02:43 -init param start ...
+2018-12-03 11:02:43 -init param end ...
+2018-12-03 11:03:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:03:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:03:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:03:23 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:03:26 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:03:26 -Opened connection [connectionId{localValue:1, serverValue:7293}] to dev.59isport.com:27017
+2018-12-03 11:03:26 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18318600}
+2018-12-03 11:03:26 -Opened connection [connectionId{localValue:2, serverValue:7294}] to dev.59isport.com:27017
+2018-12-03 11:03:27 -initializing...
+2018-12-03 11:03:27 -初始化开始。。。。。
+2018-12-03 11:03:28 -no modules loaded
+2018-12-03 11:03:28 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:03:28 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:03:28 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:03:28 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:03:28 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:03:31 -init param start ...
+2018-12-03 11:03:31 -init param end ...
+2018-12-03 11:04:45 -Closed connection [connectionId{localValue:2, serverValue:7294}] to dev.59isport.com:27017 because the pool has been closed.
+2018-12-03 11:10:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:10:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:10:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:10:09 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:10:13 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:10:13 -Opened connection [connectionId{localValue:1, serverValue:7295}] to dev.59isport.com:27017
+2018-12-03 11:10:13 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11879200}
+2018-12-03 11:10:14 -Opened connection [connectionId{localValue:2, serverValue:7296}] to dev.59isport.com:27017
+2018-12-03 11:10:14 -initializing...
+2018-12-03 11:10:14 -初始化开始。。。。。
+2018-12-03 11:10:15 -no modules loaded
+2018-12-03 11:10:15 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:10:15 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:10:15 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:10:15 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:10:15 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:10:22 -init param start ...
+2018-12-03 11:10:22 -init param end ...
+2018-12-03 11:10:56 -Detected dialect: OSS
+2018-12-03 11:14:16 -Starting without optional epoll library
+2018-12-03 11:14:16 -Starting without optional kqueue library
+2018-12-03 11:16:29 -NewsInfoBean [id=425a0e562d34df8e59c29835a09168f8, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【资讯】力帆申花半场战平 卡尔德克闪击柏佳骏扳平, title_imgs=[https://static.59isport.com/news/20181203/5d9c7a188ba599ea83ab18cca155fdae_496x280.jpg], content=, index_url=http://sports.qq.com/video/zcvideo, url=https://v.qq.com/x/page/u0024xrwcb8.html, pub_date=2017-10-22 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 中超 重庆力帆 上海申花 柏佳骏, remark=null, create_date=2018-12-03 11:16:28, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/38218834af54e7e9aad53242b2b6124c_10931185.mp4]
+2018-12-03 11:16:34 -Closed connection [connectionId{localValue:2, serverValue:7296}] to dev.59isport.com:27017 because the pool has been closed.
+2018-12-03 11:33:25 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:33:26 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:33:26 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:33:26 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:33:34 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:33:34 -Opened connection [connectionId{localValue:1, serverValue:7301}] to dev.59isport.com:27017
+2018-12-03 11:33:34 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11030800}
+2018-12-03 11:33:34 -Opened connection [connectionId{localValue:2, serverValue:7302}] to dev.59isport.com:27017
+2018-12-03 11:33:35 -initializing...
+2018-12-03 11:33:36 -初始化开始。。。。。
+2018-12-03 11:33:38 -no modules loaded
+2018-12-03 11:33:38 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:33:38 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:33:38 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:33:38 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:33:38 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:33:44 -Closed connection [connectionId{localValue:2, serverValue:7302}] to dev.59isport.com:27017 because the pool has been closed.
+2018-12-03 11:35:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:35:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:35:12 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:35:12 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:35:15 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:35:15 -Opened connection [connectionId{localValue:1, serverValue:7305}] to dev.59isport.com:27017
+2018-12-03 11:35:15 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=24124100}
+2018-12-03 11:35:15 -Opened connection [connectionId{localValue:2, serverValue:7306}] to dev.59isport.com:27017
+2018-12-03 11:35:16 -initializing...
+2018-12-03 11:35:16 -初始化开始。。。。。
+2018-12-03 11:35:17 -no modules loaded
+2018-12-03 11:35:17 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:35:17 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:35:17 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:35:17 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:35:17 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:35:20 -Closed connection [connectionId{localValue:2, serverValue:7306}] to dev.59isport.com:27017 because the pool has been closed.
+2018-12-03 11:36:34 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:36:34 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:36:35 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:36:35 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:36:37 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:36:38 -Opened connection [connectionId{localValue:1, serverValue:7307}] to dev.59isport.com:27017
+2018-12-03 11:36:38 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18155400}
+2018-12-03 11:36:38 -Opened connection [connectionId{localValue:2, serverValue:7308}] to dev.59isport.com:27017
+2018-12-03 11:36:38 -initializing...
+2018-12-03 11:36:39 -初始化开始。。。。。
+2018-12-03 11:36:40 -no modules loaded
+2018-12-03 11:36:40 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:36:40 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:36:40 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:36:40 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:36:40 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:36:43 -Closed connection [connectionId{localValue:2, serverValue:7308}] to dev.59isport.com:27017 because the pool has been closed.
+2018-12-03 11:37:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:37:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:37:27 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:37:27 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:37:30 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:37:31 -Opened connection [connectionId{localValue:1, serverValue:7309}] to dev.59isport.com:27017
+2018-12-03 11:37:31 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11368800}
+2018-12-03 11:37:31 -Opened connection [connectionId{localValue:2, serverValue:7310}] to dev.59isport.com:27017
+2018-12-03 11:37:31 -initializing...
+2018-12-03 11:37:31 -初始化开始。。。。。
+2018-12-03 11:37:32 -no modules loaded
+2018-12-03 11:37:32 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:37:32 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:37:32 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:37:32 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:37:32 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:37:36 -init param start ...
+2018-12-03 11:37:36 -init param end ...
+2018-12-03 11:38:03 -Detected dialect: OSS
+2018-12-03 11:42:11 -Starting without optional epoll library
+2018-12-03 11:42:11 -Starting without optional kqueue library
+2018-12-03 11:44:46 -NewsInfoBean [id=52cd13691e6a4ccb7e7acec31984d51e, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【战报】拜仁3-1霍村取开门红 穆勒莱万罗本破门, title_imgs=[https://static.59isport.com/news/20181203/d0f6baefc67a9a89271ffb2868ce195a_640x360.jpg], content=, index_url=http://sports.qq.com/isocce/bundesligavideo.htm, url=https://v.qq.com/x/page/r0027d2hq06.html, pub_date=2018-12-03 11:44, author=null, author_img=null, key_word=足球 视频, remark=null, create_date=2018-12-03 11:44:45, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/641c7db6b6b56a82c89c175239bd7631_5372219.mp4]
+2018-12-03 11:44:46 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-12-03 11:44:50 -Kafka version : 1.0.1
+2018-12-03 11:44:50 -Kafka commitId : c0518aa65f25317e
+2018-12-03 11:44:51 -mongo,kafka 成功
+2018-12-03 11:46:15 -NewsInfoBean [id=bb7e44e908c4d02c3aebbf8f370482d4, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【集锦】门兴1-0科隆 埃尔维迪攻入制胜一球, title_imgs=[https://static.59isport.com/news/20181203/12eb36e38e6462077eaf23e9fabcf3bd_640x360.jpg], content=, index_url=http://sports.qq.com/isocce/bundesligavideo.htm, url=https://v.qq.com/x/page/r0024r53jfy.html, pub_date=2017-08-21 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 德甲 科隆 门兴 尼克.埃尔维迪 足球技巧, remark=null, create_date=2018-12-03 11:46:15, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/04a826cbd01800492e039f887af64cf3_23055461.mp4]
+2018-12-03 11:46:15 -mongo,kafka 成功
+2018-12-03 11:58:21 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:58:21 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 11:58:21 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 11:58:21 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 11:58:30 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 11:58:31 -Opened connection [connectionId{localValue:1, serverValue:7313}] to dev.59isport.com:27017
+2018-12-03 11:58:31 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=16043000}
+2018-12-03 11:58:31 -Opened connection [connectionId{localValue:2, serverValue:7314}] to dev.59isport.com:27017
+2018-12-03 11:58:31 -initializing...
+2018-12-03 11:58:32 -初始化开始。。。。。
+2018-12-03 11:58:33 -no modules loaded
+2018-12-03 11:58:33 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 11:58:33 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 11:58:33 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 11:58:33 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 11:58:33 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 11:58:38 -init param start ...
+2018-12-03 11:58:38 -init param end ...
+2018-12-03 11:59:08 -Detected dialect: OSS
+2018-12-03 12:00:40 -Starting without optional epoll library
+2018-12-03 12:00:40 -Starting without optional kqueue library
+2018-12-03 12:02:46 -NewsInfoBean [id=bd66ec704df8b14db412b468916d4f48, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【官方】南安普敦2-2曼联 拉什福德助攻梅开二度, title_imgs=[https://static.59isport.com/news/20181203/df504edc47c7cf01ee7714c8e2e936c8_640x360.jpg], content=, index_url=http://sports.qq.com/video/yc/, url=https://v.qq.com/x/page/h0029y9gal0.html, pub_date=2018-12-02 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 英超 南安普顿 曼联 马库斯·拉什福德 喂饼 全景英超, remark=null, create_date=2018-12-03 12:02:46, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/505e9f207418ae5d4b640f85b23a4ef7_23531407.mp4]
+2018-12-03 12:02:53 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-12-03 12:02:54 -Kafka version : 1.0.1
+2018-12-03 12:02:54 -Kafka commitId : c0518aa65f25317e
+2018-12-03 12:02:55 -mongo,kafka 成功
+2018-12-03 12:05:35 -NewsInfoBean [id=b458455aec837beef0e418bd5717d19f, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【配音集锦】南安普敦2-2曼联 卢卡库破荒拉什福德助攻梅开二度, title_imgs=[https://static.59isport.com/news/20181203/0aba6e1239ad2f03dc04d4a05c15bd6b_640x360.jpg], content=, index_url=http://sports.qq.com/video/yc/, url=https://v.qq.com/x/page/n00290zsp49.html, pub_date=2018-12-02 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 英超 南安普敦 曼联 马库斯-拉什福德 喂饼, remark=null, create_date=2018-12-03 12:05:35, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/208bc7fa62ab52631b5902937387ff3b_25842900.mp4]
+2018-12-03 12:05:35 -mongo,kafka 成功
+2018-12-03 12:16:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 12:16:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-12-03 12:16:48 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoInterface.
+2018-12-03 12:16:48 -Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.isport.utils.MongoTemInterface.
+2018-12-03 12:16:57 -Cluster created with settings {hosts=[dev.59isport.com:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2018-12-03 12:16:58 -Opened connection [connectionId{localValue:1, serverValue:7315}] to dev.59isport.com:27017
+2018-12-03 12:16:58 -Monitor thread successfully connected to server with description ServerDescription{address=dev.59isport.com:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 2]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=17799900}
+2018-12-03 12:16:58 -Opened connection [connectionId{localValue:2, serverValue:7316}] to dev.59isport.com:27017
+2018-12-03 12:16:58 -initializing...
+2018-12-03 12:16:59 -初始化开始。。。。。
+2018-12-03 12:17:01 -no modules loaded
+2018-12-03 12:17:01 -loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+2018-12-03 12:17:01 -loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2018-12-03 12:17:01 -loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2018-12-03 12:17:01 -loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+2018-12-03 12:17:01 -loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2018-12-03 12:17:08 -init param start ...
+2018-12-03 12:17:08 -init param end ...
+2018-12-03 12:18:07 -Detected dialect: OSS
+2018-12-03 12:19:41 -Starting without optional epoll library
+2018-12-03 12:19:41 -Starting without optional kqueue library
+2018-12-03 12:23:57 -NewsInfoBean [id=04e2c22634914bc1304a7e1717d1b5af, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【战报】巴萨2-1埃因霍温夺小组头名 梅西传射皮克破门, title_imgs=[https://static.59isport.com/news/20181203/d2853c25eb1420f93731b0a25c8f5092_640x360.jpg], content=, index_url=http://sports.qq.com/video/og/, url=https://v.qq.com/x/page/z0029qgyu27.html, pub_date=2018-11-29 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 欧冠 埃因霍温 巴塞罗那 梅西 皮克 进球, remark=null, create_date=2018-12-03 12:23:57, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/98a021e6f18da17cc8708ea783681602_5314536.mp4]
+2018-12-03 12:24:00 -ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [dev.59isport.com:9192]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2018-12-03 12:24:01 -Kafka version : 1.0.1
+2018-12-03 12:24:01 -Kafka commitId : c0518aa65f25317e
+2018-12-03 12:24:03 -mongo,kafka 成功
+2018-12-03 12:26:50 -NewsInfoBean [id=0d3963aa723ff68d24a25a14cb4d9801, source=腾讯, source_icon=https://static.59isport.com/news/tx.ico, title=【战报】巴黎2-1利物浦握晋级主动权 飞翼破门内马尔建功, title_imgs=[https://static.59isport.com/news/20181203/14f12ca9e0851fc2a67b86773bf45d0e_640x360.jpg], content=, index_url=http://sports.qq.com/video/og/, url=https://v.qq.com/x/page/m0029jso5th.html, pub_date=2018-11-29 00:00, author=null, author_img=null, key_word=足球 视频 足球赛事 欧冠 利物浦 巴黎圣日耳曼 内马尔 进球, remark=null, create_date=2018-12-03 12:26:50, dispose_state=1, redio_url= https://static.59isport.com/video/20181203/76c3aa98e142e2353abc3da65b8525d8_6544693.mp4]
+2018-12-03 12:26:51 -mongo,kafka 成功
