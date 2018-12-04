@@ -1,1 +1,1 @@
-这是基于GECCO爬虫框架的项目
+Wangmin here, i like Node.js and Coffeescript (that's what i'm mode of!)
