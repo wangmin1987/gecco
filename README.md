@@ -1,1 +1,1 @@
-Wangmin here, i like Node.js and Coffeescript (that's what i'm mode of!)
+Gecco爬虫框架，通过开发支持分布式。下载ZIP文件，直接导入工程，MVN更新
